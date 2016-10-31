@@ -15,13 +15,17 @@
 		{{ site.data.settings.client.brokerage }}<br />
 		{% endif %}
 		{{ site.data.settings.client.address }}<br />
-		{% if site.data.settings.client.phone2 != null %}
-		{{ site.data.settings.client.phone_type }}: {{ site.data.settings.client.phone }}<br />
-		{{ site.data.settings.client.phone2_type }}: {{ site.data.settings.client.phone2 }}<br />
+		<a href="http://{{ site.data.settings.client.url }}" target="_blank">{{ site.data.settings.client.url }}</a><br /><br>
+		{% if site.data.settings.client.service2 != null %}
+		<b>{{ site.data.settings.client.service }}:</b><br>
+		{{ site.data.settings.client.phone }}<br />
+		<a href="mailto:{{ site.data.settings.client.email }}" target="_blank">{{ site.data.settings.client.email }}</a><br /><br>
+		{{ site.data.settings.client.service2 }}:<br>
+		{{ site.data.settings.client.phone2 }}<br />
+		<a href="mailto:{{ site.data.settings.client.email2 }}" target="_blank">{{ site.data.settings.client.email2 }}</a><br />
 		{% else %}
 		{{ site.data.settings.client.phone }}<br />
-		{% endif %}
 		<a href="mailto:{{ site.data.settings.client.email }}" target="_blank">{{ site.data.settings.client.email }}</a><br />
-		<a href="http://{{ site.data.settings.client.url }}" target="_blank">{{ site.data.settings.client.url }}</a><br />
+		{% endif %}
 	</p>
 </div>
