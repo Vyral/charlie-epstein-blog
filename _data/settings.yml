@@ -5,6 +5,29 @@ show_custom_links: false
 custom_links:
   - title:
     url:
+about_tab:
+  - link_name: Our Company
+    link_url: https://www.epsteinfinancial.com/our-company.html
+  - link_name: ADV & Disclosures
+    link_url: https://www.epsteinfinancial.com/adv-disclosures.html
+family_CFO_tab:
+  - link_name: 6 Step Process
+    link_url: https://www.epsteinfinancial.com/the-family-cfo.html
+corporate_401k_tab:
+  - link_name: Fiducuary Compliance & Assessement
+    link_url: https://www.epsteinfinancial.com/fiduciary-compliance-assessement.html
+  - link_name: Capital Market Updates
+    link_url: https://www.epsteinfinancial.com/capital-market-updates.html
+  - link_name: Participant Education Process
+    link_url: https://www.epsteinfinancial.com/participant-education-process.html
+  - link_name: Desirement Mortgage Calculator
+    link_url: https://www.epsteinfinancial.com/desirement-mortgage-calculator.html
+  - link_name: Newsletter
+    link_url: https://www.epsteinfinancial.com/newsletter.html
+  - link_name: Resources
+    link_url: https://www.epsteinfinancial.com/401k-resources.html
+  - link_name: Fiduciary Briefcase
+    link_url: https://www.fiduciarybriefcase.com/
 client:
   name: Charlie Epstein
   license_number:

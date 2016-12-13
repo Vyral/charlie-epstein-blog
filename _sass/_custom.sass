@@ -1,12 +1,11 @@
 //For individual theme fixes. You know all about it.
 
 .dropdown-menu
-	z-index: 10
-	overflow: visible
-	background: $brand
-	position: relative
+	background: #d91f11
+	border-radius: 0
 	&:active
-		color: $brand
+		color: #d91f11
+
 .site-logo
 	max-width: 120rem
 	margin-top: 0
@@ -14,47 +13,87 @@
 .hero-logo-container
 	margin-top: 50px
 	margin-bottom: 50px
+// .footer
+// 	color: #fff
+// 	.attribution
+// 		svg
+// 			fill: #fff
+// 	.socials
+// 		svg
+// 			fill: #fff
+// 	a
+// 		color: #fff
+//
+// .newsletter
+// 	background: darken($theme, 3%)
+//
 .footer
+	background: #656464
+
+.footer-links
 	color: #fff
-	.attribution
-		svg
-			fill: #fff
-	.socials
-		svg
-			fill: #fff
+	font-size: 20px
+.footer-2
+	background: #333C3C
+	p
+		color: #cfcfcf
+		font-size: 18px
+		padding-top: 75px
+		padding-bottom: 75px
+.nav>li>a:focus, .nav>li>a:hover
+	background: #e63c2c
+	color: #fff
+.nav>li>a
+	color: #fff
+.nav>li>a:focus, .nav>li>a.cta:hover
+	background: lighten(#e63c2c, 3%)
+.nav>li>a:focus, .nav>li>a.cta2:hover
+	background: lighten(#d91f11, 3%)
+.navbar-left
+	.dropdown
+		margin-bottom: 0
+.nav .open > a, .nav .open > a:focus, .nav .open > a:hover
+	background: #e63c2c
+	margin-bottom: 1rem
+
+.nav .open
 	a
 		color: #fff
-
-.newsletter
-	background: darken($theme, 3%)
-
-.navbar-left
-	li
-		a
-			color: #fff
-
-
-.navbar-right
-	li
-		.cta
-			background: #fff
-			border-color: #fff
-			color: $brand
-		.cta2
-			background: $brand
-			border-color: #fff
-			color: #fff
-
-.fa-bars
-	color: #fff
-
-.navbar-andross
-	.navbar-brand
-		color: #fff
-		margin-top: 10px
-
-.site-title
-	font-weight: bold
+	&:focus
+		background: #e63c2c
+	&:hover
+		background: #e63c2c
+	&:active
+		background: #e63c2c
+.footer-img
+	display: inline-block
+	width: 125px
+	padding: 10px
+.footer-img-right
+	display: inline-block
+	height: 120px
+	padding: 10px
+// .navbar-right
+// 	li
+// 		.cta
+// 			background: #fff
+// 			border-color: #fff
+// 			color: $brand
+// 		.cta2
+// 			background: $brand
+// 			border-color: #fff
+// 			color: #fff
+//
+// .fa-bars
+// 	color: #fff
+//
+// .navbar-andross
+// 	.navbar-brand
+// 		color: #fff
+// 		margin-top: 10px
+//
+// .site-title
+// 	font-weight: bold
 
 .welcome-box
 	background: #e84f41

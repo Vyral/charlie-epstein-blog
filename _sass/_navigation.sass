@@ -1,84 +1,63 @@
 .navbar-andross
 	border: none
 	border-radius: 0
-	min-height: 65px
-	background: $theme
+	min-height: 42px
+	background: #424141
 	width: 100%
-	overflow: hidden
+
 	// +shadow
 	.cta
-		background: $brand
-		color: $light-text
-		padding: 1.3rem 2rem
-		text-transform: capitalize
-		font-size: 2rem
-		font-weight: 300
-		border: 2px solid $brand
-		@include transition(0.3s)
-		&:hover
-			background: transparent
-			color: $brand-light
-			box-shadow: 4px 4px 0 $brand-light
-			border: 2px solid $brand-light
-			@include transform(scale(1.05))
-			@include transform(translateY(-0.2rem))
-		&:active
-			box-shadow: 0 0 0 $brand-light
-			@include transform(translateY(0rem))
+		background: #e63c2c
+		color: #fff
+		margin-right: 1px
+		a
+			text-transform: capitalize
 
 	.cta2
-		// background: $light-text
-		color: $brand
-		padding: 1.3rem 2rem
-		text-transform: capitalize
-		font-size: 2rem
-		font-weight: 300
-		border: 2px solid $brand
-		@include transition(0.3s)
-		&:hover
-			background: transparent
-			color: $brand-light
-			box-shadow: 4px 4px 0 $brand-light
-			border: 2px solid $brand-light
-			@include transform(scale(1.05))
-			@include transform(translateY(-0.2rem))
-		&:active
-			box-shadow: 0 0 0 $brand-light
-			@include transform(translateY(0rem))
+		background: #D91F11
+		color: #fff
+		a
+			text-transform: capitalize
+		// &:active
+		// 	box-shadow: 0 0 0 $brand-light
+		// 	@include transform(translateY(0rem))
+		&:focus
+			background: darken($brand, 3%)
+			color: #fff
 
 .navbar-andross .navbar-brand
-	color: $brand
-	padding-top: 20px
-	padding-bottom: 33px
-	font-size: 20px
+	color: #fff
 	text-transform: uppercase
 	max-width: 80%
 
 .navbar-nav>li
-	margin-right: 10px
+	height: 40px
+	font-size: 14px
+	text-transform: uppercase
+	color: #fff
+	// padding: 10px 18px 6px
 	@include transition
 
-.navbar-nav>li>a
-	font-size: 20px
-	margin-top: 12px
-	padding: 10px 10px
-	border-radius: 5px
-	@include transition
+
 
 .navbar-left>li>a
 	border: 0
 	background: transparent
-	color: $brand
-	margin-top: 15px
+	color: #fff
 	&:hover
 		background: transparent
 		color: $brand-light
+	&:focus
+		background: darken($brand, 3%)
+		color: #fff
 
 .fa-bars
 	color: $brand
 
 .navbar-toggle
 	margin-top: 20px
+.nav .open>a, .nav .open>a:focus, .nav .open>a:hover
+	background: darken($brand, 3%)
 
 .navbar
 	padding-right: 15px
