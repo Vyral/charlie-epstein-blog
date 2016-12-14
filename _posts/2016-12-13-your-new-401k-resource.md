@@ -18,7 +18,11 @@ youtube_code: _q7on4S_DDo
 
 {% include youtube.html %}
 
-*Over the course of the next year, I’ll send you a series of videos talking about everything that you can do as a plan sponsor to help your employees reach retirement safely and on time.*
+*Set up a consultation
+<br>https://www.epsteinfinancial.com/contact.html*
+
+*To get your free book follow this link
+<br>https://www.epsteinfinancial.com/free-book-offer.html*
 
 Picture this: you’re getting ready to go on a great vacation. You’re standing at the airport gate when all of a sudden, the agent comes on the intercom and says, “The captain would like me to announce that there is an 85% chance that this flight will not make it to your vacation destination on time and safely. Have a nice trip!”&nbsp;
 
