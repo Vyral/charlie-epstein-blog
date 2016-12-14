@@ -18,7 +18,7 @@ youtube_code: _q7on4S_DDo
 
 {% include youtube.html %}
 
-***[Set up a consultation](https://www.epsteinfinancial.com/contact.html)&nbsp;***
+***[Set up a consultation](https://www.epsteinfinancial.com/contact.html)&nbsp;-***&nbsp;***[*[](https://www.epsteinfinancial.com/free-book-offer.html)****[To get your free book c](https://www.epsteinfinancial.com/free-book-offer.html)***](https://www.epsteinfinancial.com/free-book-offer.html)[***lick here***](__notset__)***
 
 Picture this: you’re getting ready to go on a great vacation. You’re standing at the airport gate when all of a sudden, the agent comes on the intercom and says, “The captain would like me to announce that there is an 85% chance that this flight will not make it to your vacation destination on time and safely. Have a nice trip!”&nbsp;
 
