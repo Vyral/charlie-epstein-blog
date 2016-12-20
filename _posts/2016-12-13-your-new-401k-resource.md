@@ -19,6 +19,7 @@ youtube_code: _q7on4S_DDo
 {% include youtube.html %}
 
 ***[Schedule a consultation](http://blog.epsteinfinancial.com/#contact) - [Click here to get your free book](https://www.epsteinfinancial.com/free-book-offer.html)***
+{:style="text-align: center"}
 
 Picture this: you’re getting ready to go on a great vacation. You’re standing at the airport gate when all of a sudden, the agent comes on the intercom and says, “The captain would like me to announce that there is an 85% chance that this flight will not make it to your vacation destination on time and safely. Have a nice trip!”&nbsp;
 
