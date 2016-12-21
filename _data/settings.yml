@@ -40,6 +40,7 @@ client:
   service2:
   phone: 413-539-2379
   email: mgilmore@epsteinfs.com
+  email2: 
   url: www.epsteinfinancial.com
   first_CTA_text: Get Our Free Book
   first_CTA_URL: https://www.epsteinfinancial.com/free-book-offer.html
