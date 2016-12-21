@@ -37,11 +37,9 @@ client:
   brokerage:
   address: '330 Whitney Avenue, Suite 610<br>Holyoke, MA 01040'
   service: <b>Matthew Gilmore</b><br>Corporate 401K
-  service2: Wealth Management
   phone: 413-539-2379
   phone2: 413-538-2374
   email: mgilmore@epsteinfs.com
-  email2: lthompson@epsteinfs.com
   url: www.epsteinfinancial.com
   first_CTA_text: Get Our Free Book
   first_CTA_URL: https://www.epsteinfinancial.com/free-book-offer.html
