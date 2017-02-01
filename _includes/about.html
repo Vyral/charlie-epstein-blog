@@ -10,15 +10,16 @@
 		{% if site.data.settings.client.license_number != null %}
 		#{{ site.data.settings.client.license_number }}</br>
 		{% endif %}
-		{{ site.data.settings.client.brand }}<br />
+		<!-- {{ site.data.settings.client.brand }}<br /> -->
 		{% if site.data.settings.client.brokerage != null %}
 		{{ site.data.settings.client.brokerage }}<br />
 		{% endif %}
+		<img src="/img/EFS_Corporate.png" alt="" style="max-width: 250px; padding: 10px 0"><br>
 		{{ site.data.settings.client.address }}<br />
 		<a href="http://{{ site.data.settings.client.url }}" target="_blank"><b>{{ site.data.settings.client.url }}</b></a><br /><br>
 		<b>{{ site.data.settings.client.service }}:</b><br>
 		{{ site.data.settings.client.phone }}<br />
 		<a href="mailto:{{ site.data.settings.client.email }}" target="_blank"><b>{{ site.data.settings.client.email }}</b></a>
-	
+
 	</p>
 </div>

@@ -1,32 +1,110 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
   <channel>
-    <title></title>
-    <link>localhost:5000</link>
-    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="localhost:5000"/>
-    <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.</description>
+    <title>Save America, Save - A Financial Services Podcast with Charlie Epstein</title>
+    <link>http://blog.epsteinfinancial.com</link>
+    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://blog.epsteinfinancial.com"/>
+    <description>We create greater clarity, confidence and the capabilities for entrepreneurs, medical practitioners, 401k participants and retirees to maximize the power of their financial future. Our goal is to help you generate a "paycheck for life" to pay for all the things you desire to do and to live a fulfilling and engaged life.</description>
     <language>en</language>
-    <managingEditor></managingEditor>
-    <lastBuildDate>2016-12-13 14:47:20 -0600</lastBuildDate>
-    <media:copyright></media:copyright>
-    <media:thumbnail url="localhost:5000"/>
-    <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in San Francisco, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
+    <managingEditor>Charlie Epstein</managingEditor>
+    <lastBuildDate>2017-02-01 13:03:14 -0600</lastBuildDate>
+    <media:copyright>Charlie Epstein</media:copyright>
+    <media:thumbnail url="http://blog.epsteinfinancial.com/img/podcast.png"/>
+    <media:keywords>finance, epstein, financial, 401k, retirement</media:keywords>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">News &amp; Politics</media:category>
     <itunes:owner>
       <itunes:email>mgilmore@epsteinfs.com</itunes:email>
-      <itunes:name></itunes:name>
+      <itunes:name>Charlie Epstein</itunes:name>
     </itunes:owner>
-    <itunes:author></itunes:author>
+    <itunes:author>Charlie Epstein</itunes:author>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="localhost:5000"/>
-    <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in San Francisco, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
-    <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market</itunes:subtitle>
-    <itunes:summary>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.</itunes:summary>
+    <itunes:image href="http://blog.epsteinfinancial.com/img/podcast.png"/>
+    <itunes:keywords>finance, epstein, financial, 401k, retirement</itunes:keywords>
+    <itunes:subtitle>Learn all the tips, tricks and more to better prepare yourself for the future.</itunes:subtitle>
+    <itunes:summary>We create greater clarity, confidence and the capabilities for entrepreneurs, medical practitioners, 401k participants and retirees to maximize the power of their financial future. Our goal is to help you generate a "paycheck for life" to pay for all the things you desire to do and to live a fulfilling and engaged life.</itunes:summary>
       <itunes:category text="News &amp; Politics"/>
     
       <item>
+        <title>How Can You Help Your Employees Save for Retirement?</title>
+        <link>http://blog.epsteinfinancial.com/how-can-you-help-your-employees-save-for-retirement.html</link>
+        
+          <category>401K</category>
+        
+          <category>Retirement</category>
+        
+        <author>Charlie Epstein</author>
+        <pubDate>2017-01-26 00:00:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Charlie+Epstein/Videos/2017+Videos/How+Can+You+Help+Your+Employees+Save+for+Retirement%253F+-+The+401K+Coach.mp4</guid>
+        <description>
+
+Today I wanted to talk about helping you help your employees create paychecks for life. 
+
+First I’ll cover how much, on average, your employees need to save to create that paycheck for life for retirement. Next, I’ll move on to something called the “Rule of 72,” which is a shortcut for figuring out how fast your money grows and how fast inflation can reduce the purchasing power of that paycheck for life
+
+On average, I like to tell employees that they need to save at least 10% of their pay year in, year out to effectively accumulate enough money to create a paycheck for life. More importantly, your employees need to calculate how much of their current income they need to replace when they get to retirement in order to successfully replace their income and have that paycheck for life. This is a calculation we’ve found that most employees don’t bother with, which is unfortunate because it’s the most important number. 
+
+How is this calculation done? In my industry, we have a technical word for it called the “income replacement ratio,” or the “income replacement formula.” It works like this:
+
+On average, when you reach retirement age, you’re probably not going to need 100% of your income; you’ll probably only need 70%, 80% or 90% of it. Why? Let’s imagine that you’re 40 years old, your annual income is $50,000, and you decide you want to retire at age 66 and start collecting that paycheck for life. We’ll also assume that you’re going to get social security, which will make up for a portion of that income replacement. If you’re only going to need 80% of your income, that would equate to $40,000. That’s $40,000 in today’s dollars, but complicating matters is this little problem called inflation. 
+
+The economic definition of inflation, in layman’s terms, is too much money chasing too few goods. Inflation basically erodes your purchasing power over the years, so you need your income or your savings to grow in order to keep up with the cost of living.
+
+“Don’t let your employees retire without a paycheck for life.”
+
+This is where the Rule of 72 comes into play. The Rule of 72 is a shortcut to figuring out how fast your money is going to be eroded by inflation. The rule of 72 helps you figure out how long you have until your income erodes to half of what you are currently making. So, since the inflation rates is 3%, you’ll take 72 and divide it by three. If the inflation rate was 4% and 5%, you would divide 72 by four or five. 72 divided by three is 24, therefore it would take 24 years for a $50,000 income to erode to $25,000. 
+
+Let’s turn this calculation around under the same assumption of working until age 66 with an annual income of $50,000. Replacing 80% of that $50,000 would equate to $40,000. However, in 24 years, that $40,000 is only going to be worth $20,000. That means you would actually need $80,000 just to keep pace with inflation when you get into your mid-60s. 
+If you’re thinking that this sounds too complicated or you’re wondering how your employees are going to calculate this, I have good news. Most 401(k) record keepers have calculators that will help your employees calculate their income replacement ratio and the effects of inflation. As a matter of fact, there are even some record keepers who, instead of giving out a statement of a lump-sum amount of how much money your participant has accumulated in their plan, they’ll actually convert that amount to a monthly income at the participant’s retirement age. 
+
+For example, if somebody needs $2,000 a month to live on and they have only $1,350 projected, the calculator will notify them that they’re short $650 and inform them how much additional money they would need to save at a reasonable rate of return at 3% inflation in order to create that paycheck for life. 
+
+If you’d like a list of the record keepers that actually do those calculations or convert the lump sum amount that they’ve saved into a monthly amount, email me at cdepstein@the401kcoach.com.
+
+What we’re covering here is mission critical. If your employees don’t know how much income they need to replace, what inflation will do to their paycheck over time, and what they need to save, they’re going to end up without enough money in their retirement account to create that paycheck for life. 
+
+One way we can help your employees understand exactly how much they need to save is something called a “gap statement.” The gap statement simply performs this calculation for them. As a matter of fact, with all our clients, we create a gap statement for all their employees. If you’d like a copy of an example of our gap statement, feel free to email me again at the aforementioned address. 
+
+If you have any other questions about this topic or you’d like to connect with me, don’t hesitate to reach out to me. I look forward to helping you. 
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Charlie+Epstein/Videos/2017+Videos/How+Can+You+Help+Your+Employees+Save+for+Retirement%253F+-+The+401K+Coach.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://blog.epsteinfinancial.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Charlie+Epstein/Videos/2017+Videos/How+Can+You+Help+Your+Employees+Save+for+Retirement%253F+-+The+401K+Coach.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Learn all the tips, tricks and more to better prepare yourself for the future.</itunes:subtitle>
+        <itunes:author>Charlie Epstein</itunes:author>
+        <itunes:summary>Creating a paycheck for life and securing your retirement means knowing how to calculate your income replacement ratio and preparing for the effects of inflation.</itunes:summary>
+        <itunes:keywords>finance, epstein, financial, 401k, retirement</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Join Me and Listen in on Christmas Eve</title>
+        <link>http://blog.epsteinfinancial.com/join-me-and-listen-in-on-christmas-eve.html</link>
+        
+          <category>401K</category>
+        
+          <category>Financial Consultant</category>
+        
+        <author>Charlie Epstein</author>
+        <pubDate>2016-12-22 00:00:00 -0600</pubDate>
+        <guid></guid>
+        <description>
+I’ve got some exciting news to share. This Saturday, December 24th, I am going to be a guest on The Western Mass Business Show with Ira Bryck. We are going to talk about how an “engaged purpose” drives everything that happens at Epstein Financial Services. We’ll also talk about how we bring light to all the things that need improvements for owners, employees, and customers. We hope you’ll join us on Saturday at 11 a.m. on WHMP AM 1400.
+</description>
+        <enclosure url="" length="" type="video/mp4"/>
+        <media:thumbnail url="http://blog.epsteinfinancial.com" height="72" width="72"/>
+        <media:content url="" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Learn all the tips, tricks and more to better prepare yourself for the future.</itunes:subtitle>
+        <itunes:author>Charlie Epstein</itunes:author>
+        <itunes:summary>
+I’ve got some exciting news to share. This Saturday, December 24th, I am going to be a guest on The Western Mass Business Show with Ira Bryck. We are going to talk about how an “engaged purpose” drives everything that happens at Epstein Financial Services. We’ll also talk about how we bring light to all the things that need improvements for owners, employees, and customers. We hope you’ll join us on Saturday at 11 a.m. on WHMP AM 1400.
+</itunes:summary>
+        <itunes:keywords>finance, epstein, financial, 401k, retirement</itunes:keywords>
+      </item>
+      
+      <item>
         <title>Your New 401K Resource</title>
-        <link>localhost:5000/your-new-401k-resource.html</link>
+        <link>http://blog.epsteinfinancial.com/your-new-401k-resource.html</link>
         
           <category>401K</category>
         
@@ -34,12 +112,12 @@
         
           <category>Financial Consultant</category>
         
-        <author></author>
+        <author>Charlie Epstein</author>
         <pubDate>2016-12-13 00:00:00 -0600</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/Charlie+Epstein/Videos/2016+Videos/Let+Me+Tell+You+A+Story.mp4</guid>
         <description>
 
-Over the course of the next year, I’ll send you a series of videos talking about everything that you can do as a plan sponsor to help your employees reach retirement safely and on time.
+Schedule a Consultation - Click here to get your free book
 
 Picture this: you’re getting ready to go on a great vacation. You’re standing at the airport gate when all of a sudden, the agent comes on the intercom and says, “The captain would like me to announce that there is an 85% chance that this flight will not make it to your vacation destination on time and safely. Have a nice trip!” 
 
@@ -60,18 +138,18 @@ If you take advantage of these powerful tools, you will help your employees save
 I look forward to hearing from you!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Charlie+Epstein/Videos/2016+Videos/Let+Me+Tell+You+A+Story.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:5000" height="72" width="72"/>
+        <media:thumbnail url="http://blog.epsteinfinancial.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Charlie+Epstein/Videos/2016+Videos/Let+Me+Tell+You+A+Story.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market</itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:subtitle>Learn all the tips, tricks and more to better prepare yourself for the future.</itunes:subtitle>
+        <itunes:author>Charlie Epstein</itunes:author>
         <itunes:summary>Over the course of the next year, I’ll send you a series of videos talking about everything that you can do as a plan sponsor to help your employees reach retirement safely and on time.</itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in San Francisco, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>finance, epstein, financial, 401k, retirement</itunes:keywords>
       </item>
       
-    <copyright></copyright>
-    <media:credit role="author"></media:credit>
+    <copyright>Charlie Epstein</copyright>
+    <media:credit role="author">Charlie Epstein</media:credit>
     <media:rating>nonadult</media:rating>
-    <media:description type="plain">If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.</media:description>
+    <media:description type="plain">We create greater clarity, confidence and the capabilities for entrepreneurs, medical practitioners, 401k participants and retirees to maximize the power of their financial future. Our goal is to help you generate a "paycheck for life" to pay for all the things you desire to do and to live a fulfilling and engaged life.</media:description>
   </channel>
 </rss>
