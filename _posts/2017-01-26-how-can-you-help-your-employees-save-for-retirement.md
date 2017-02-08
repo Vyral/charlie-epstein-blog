@@ -18,7 +18,6 @@ youtube_code: FWCYOaAGPcQ
 {% include youtube.html %}
 
 [Schedule a Consultation](https://www.epsteinfinancial.com/contact.html) - [Click here to get your free book](https://www.epsteinfinancial.com/free-book-offer.html)
-{: style="text-align: center"}
 
 Today I wanted to talk about helping you help your employees create paychecks for life.&nbsp;
 
@@ -41,7 +40,7 @@ Let’s turn this calculation around under the same assumption of working until 
 
 For example, if somebody needs $2,000 a month to live on and they have only $1,350 projected, the calculator will notify them that they’re short $650 and inform them how much additional money they would need to save at a reasonable rate of return at 3% inflation in order to create that paycheck for life.&nbsp;
 
-If you’d like a list of the record keepers that actually do those calculations or convert the lump sum amount that they’ve saved into a monthly amount, email me at [cdepstein@the401kcoach.com](javascript:void(location.href='mailto:'+String.fromCharCode(99,100,101,112,115,116,101,105,110,64,116,104,101,52,48,49,107,99,111,97,99,104,46,99,111,109))).
+If you’d like a list of the record keepers that actually do those calculations or convert the lump sum amount that they’ve saved into a monthly amount, email me at [cdepstein@epsteinfs.com](javascript:void(location.href='mailto:'+String.fromCharCode(99,100,101,112,115,116,101,105,110,64,101,112,115,116,101,105,110,102,115,46,99,111,109))).
 
 What we’re covering here is mission critical. If your employees don’t know how much income they need to replace, what inflation will do to their paycheck over time, and what they need to save, they’re going to end up without enough money in their retirement account to create that paycheck for life.&nbsp;
 
