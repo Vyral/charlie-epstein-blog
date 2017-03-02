@@ -27,12 +27,9 @@ When small banks were held to the same standards as the big banks, it didn’t w
 
 With President Trump’s first action, Congress will have to get involved and trim down the Dodd-Frank Act. However, the biggest piece to be trimmed is the bureaucracy. **The notion that more regulation will prevent things from happening is wrong.**The free markets need to be free and the free markets will determine what’s in the best interest of businesses and consumers. When the smaller banks are able to release that capital to smaller businesses, the results will be exponential.
 
+{% include pullquote.html %}
+
 To catch my full appearance, just click play on the video above. Thank you for watching. &nbsp;Let me know your views on this topic. &nbsp;Just send me your email at [cdepstein@the401kcoach.com](javascript:void(location.href='mailto:'+String.fromCharCode(99,100,101,112,115,116,101,105,110,64,116,104,101,52,48,49,107,99,111,97,99,104,46,99,111,109))).
 <br>&nbsp;
-<br>Cordially,
-<br>Charlie Epstein
-<br>The 401k Coach&nbsp;
-
-{% include pullquote.html %}
 
 <br>&nbsp;
