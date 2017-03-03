@@ -18,7 +18,8 @@ youtube_code: FWCYOaAGPcQ
 {% include youtube.html %}
 
 [Schedule a Consultation](https://www.epsteinfinancial.com/contact.html) - [Click here to get your free book](https://www.epsteinfinancial.com/free-book-offer.html)
-
+< style="text-align: center;">
+ 
 Today I wanted to talk about helping you help your employees create paychecks for life.&nbsp;
 
 First I’ll cover how much, on average, your employees need to save to create that paycheck for life for retirement. Next, I’ll move on to something called the “Rule of 72,” which is a shortcut for figuring out how fast your money grows and how fast inflation can reduce the purchasing power of that paycheck for life
