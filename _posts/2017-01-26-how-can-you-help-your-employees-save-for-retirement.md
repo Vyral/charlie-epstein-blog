@@ -18,7 +18,7 @@ youtube_code: FWCYOaAGPcQ
 {% include youtube.html %}
 
 [Schedule a Consultation](https://www.epsteinfinancial.com/contact.html) - [Click here to get your free book](https://www.epsteinfinancial.com/free-book-offer.html)
-< style="text-align: center;">
+{: style="text-align: center"}
  
 Today I wanted to talk about helping you help your employees create paychecks for life.&nbsp;
 
