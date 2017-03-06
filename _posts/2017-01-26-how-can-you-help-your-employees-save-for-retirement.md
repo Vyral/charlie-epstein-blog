@@ -44,6 +44,6 @@ If you’d like a list of the record keepers that actually do those calculations
 
 What we’re covering here is mission critical. If your employees don’t know how much income they need to replace, what inflation will do to their paycheck over time, and what they need to save, they’re going to end up without enough money in their retirement account to create that paycheck for life.&nbsp;
 
-One way we can help your employees understand exactly how much they need to save is something called a **“gap statement.”** The gap statement simply performs this calculation for them. As a matter of fact, with all our clients, we create a gap statement for all their employees. If you’d like a sample of our gap statement, feel free to email me again at the aforementioned address.&nbsp;
+One way we can help your employees understand exactly how much they need to save is something called a **“gap statement.”** The gap statement simply performs this calculation for them. As a matter of fact, with all our clients, we create a gap statement for all their employees. If you’d like a sample copy of our gap statement, feel free to email me again at the aforementioned address.&nbsp;
 
-If you have any other questions about this topic and you would like to connect with me, don’t hesitate to reach out to me. I look forward to helping you.&nbsp;
+If you have any other questions about this topic and you would like to connect with me, don’t hesitate, send me an email. I look forward to helping you.&nbsp;
