@@ -21,7 +21,7 @@ youtube_code: FWCYOaAGPcQ
 
 First I'll cover how much your employees, on average, will need to save to create their paycheck for life for retirement.
 
-Next, I’ll move on to something called the “Rule of 72,” which is a shortcut for figuring out how fast your money grows and how fast inflation can reduce the purchasing power of that paycheck for life
+Next, I’ll move on to something called the “Rule of 72,” which is a shortcut for figuring out how fast your money grows and how fast inflation can reduce the purchasing power of that paycheck for life.
 
 On average, I like to tell employees that **they need to save at least 10% of their pay, &nbsp;year in and year out, to effectively accumulate enough money to create a paycheck for life.** More importantly, your employees need to calculate how much of their current income they need to replace when they get to retirement in order to successfully replace their income and have that paycheck for life. This is a calculation we’ve found that most employees don’t bother with, which is unfortunate because it’s the most important number.&nbsp;
 
