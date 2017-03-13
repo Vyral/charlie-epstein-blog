@@ -28,8 +28,6 @@ corporate_401k_tab:
     link_url: https://www.epsteinfinancial.com/401k-resources.html
   - link_name: Fiduciary Briefcase
     link_url: https://www.fiduciarybriefcase.com/
-  - link_name: Contact Us
-    link_url: '#contact'    
 client:
   name: Charlie Epstein
   license_number:
