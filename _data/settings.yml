@@ -45,7 +45,7 @@ client:
   first_CTA_text: Get Our Free Book
   first_CTA_URL: https://www.epsteinfinancial.com/free-book-offer.html
   second_CTA_text: Schedule a Consultation
-  second_CTA_URL: '#contact'
+  second_CTA_URL: https://secure.scheduleonce.com/Consultation-EpsteinFinancial
   VR_form: http://oi.vresp.com?fid=badf4f8bcd
 welcome_headline: Get Educated About Your Financial Future
 welcome_text_markdown: Our mission at Epstein Financial is to be your best resource for financial advice. Our team of professionals can answer any questions you might have about finance. Subscribe to this blog to get the latest news on finance and receive expert tips for preparing yourself for your financial future.
