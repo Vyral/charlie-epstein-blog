@@ -24,7 +24,7 @@ Last year, the Obama administration made some major cuts to social security. Let
 
 The good news, however, is that they’ve made it easier for you and your employees to calculate your benefits. What do you and your employees need to know?
 
-First of all, you should **go to the social security website [www.ssa.gov](https://www.ssa.gov/), log in, enter your personal information, create an ID, and generate your social security report.&nbsp;**Once you do that, the report is going to tell you what you’re going to get for income at age 62, what you’re going to get at 66, and what you’ll get if you wait until 70, which is the age that guarantees the largest benefit.
+First of all, you should **go to the social security website [www.ssa.gov](https://www.ssa.gov/){:target="_blank"}, log in, enter your personal information, create an ID, and generate your social security report.&nbsp;**Once you do that, the report is going to tell you what you’re going to get for income at age 62, what you’re going to get at 66, and what you’ll get if you wait until 70, which is the age that guarantees the largest benefit.
 
 When should you take your social security? That depends on a lot of factors, primarily the **state of your health, whether or not you like working, and whether or not you have other savings or investments in play.**
 
