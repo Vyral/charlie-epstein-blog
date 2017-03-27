@@ -18,6 +18,9 @@ youtube_code: jsOVTUs96Xg
 
 {% include youtube.html %}
 
+[Schedule a Consultation](https://secure.scheduleonce.com/Consultation-EpsteinFinancial) - [Click here to get your free book](https://www.epsteinfinancial.com/free-book-offer.html)
+{: style="text-align: center"}
+
 How can your employees maximize the benefits of social security and use it to its full advantages?
 
 Last year, the Obama administration made some major cuts to social security. Let me be clear—the social security trust fund has no money in it. It’s a ponzi scheme. Some people pay in, but far more people pay out. Every administration for the last 25 years has tried cutting off various loopholes and raising taxes to shore up the system, but it just hasn’t happened. The Obama administration eliminated some of those loopholes that would’ve allowed you or your spouse to maximize this benefit. And today, those are all gone.
