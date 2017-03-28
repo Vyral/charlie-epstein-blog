@@ -19,7 +19,6 @@ youtube_code: jsOVTUs96Xg
 {% include youtube.html %}
 
 [Schedule a Consultation](https://secure.scheduleonce.com/Consultation-EpsteinFinancial) - [Click here to get your free book](https://www.epsteinfinancial.com/free-book-offer.html)
-{: style="text-align: center"}
 
 How can your employees maximize the benefits of social security and use it to its full advantages?
 
@@ -27,7 +26,7 @@ Last year, the Obama administration made some major cuts to social security. Let
 
 The good news, however, is that they’ve made it easier for you and your employees to calculate your benefits. What do you and your employees need to know?
 
-First of all, you should **go to the social security website [www.ssa.gov](https://www.ssa.gov/){:target="_blank"}, log in, enter your personal information, create an ID, and generate your social security report.&nbsp;**Once you do that, the report is going to tell you what you’re going to get for income at age 62, what you’re going to get at 66, and what you’ll get if you wait until 70, which is the age that guarantees the largest benefit.
+First of all, you should **go to the social security website [www.ssa.gov](https://www.ssa.gov/), log in, enter your personal information, create an ID, and generate your social security report.&nbsp;**Once you do that, the report is going to tell you what you’re going to get for income at age 62, what you’re going to get at 66, and what you’ll get if you wait until 70, which is the age that guarantees the largest benefit.
 
 When should you take your social security? That depends on a lot of factors, primarily the **state of your health, whether or not you like working, and whether or not you have other savings or investments in play.**
 
@@ -43,7 +42,7 @@ That’s an important consideration. Just bear in mind, if you start taking soci
 
 However, I know there are still a lot of people who want to get their money as soon as possible. What’s the best solution for them? Again, it depends on how much you have in savings, what you have in your 401(k), how much you have in a Roth account, and other factors. Do you have a history of health and longevity in your family? Psychologically, can you wait to take your social security benefit? Every year that you wait, you’re going to earn an 8% return on that benefit. In other words, that monthly income is going to grow by 8%. That’s a guaranteed return.
 
-Now, I know there are also some of you out there saying there’s no money in the social security system and wondering what happens if they take it away. **If you’re 55 or older, you can count on social security to be there.&nbsp;**If you’re 50 or under, depending on how much money you do have at retirement some day, I think they’re going to means test social security. That means is if you make too much income from your investments, you’re not going to receive any of your social security or a reduced benefit.
+Now, I know there are also some of you out there saying there’s no money in the social security system and wondering what happens if they take it away. **If you’re 55 or older, you can count on social security to be there.&nbsp;**If you’re 50 or under, depending on how much money you do have at retirement some day, I think they’re going to means test social security. That means, if you make too much income from your investments, you’re not going to receive any of your social security or a reduced benefit.
 
 Trust me when I say that this is how it’s going to have to happen. As it is now, there are too few people paying into a system and too many taking out of it. There hasn’t been any president yet that has had enough political clout to take on social security, and more specifically, to take on congress.
 
