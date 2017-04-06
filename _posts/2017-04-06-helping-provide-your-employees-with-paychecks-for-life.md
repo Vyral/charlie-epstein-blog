@@ -19,6 +19,7 @@ youtube_code: QESVDVolIZg
 {% include youtube.html %}
 
 [Schedule a Consultation](https://secure.scheduleonce.com/Consultation-EpsteinFinancial) - [Click here to get your free book](https://www.epsteinfinancial.com/free-book-offer.html)
+{: style="text-align: center"}
 
 I’ve got a question for you.&nbsp;
 
