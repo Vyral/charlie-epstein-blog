@@ -19,11 +19,10 @@ youtube_code: QESVDVolIZg
 {% include youtube.html %}
 
 [Schedule a Consultation](https://secure.scheduleonce.com/Consultation-EpsteinFinancial) - [Click here to get your free book](https://www.epsteinfinancial.com/free-book-offer.html)
-{: style="text-align: center"}
 
 I’ve got a question for you.&nbsp;
 
-Are you ready to take action? Are you ready to really dig into your retirement plan and take action to help your employees create paychecks for life?** If you are, we are here to help.**
+Are you ready to take action? Are you ready to really dig into your retirement plan and take action to help your employees create paychecks for life? **If you are, we are here to help.**
 
 I would love to hear your questions, comments, and concerns about your retirement plan and how we can help you improve it. Reach out to us at epsteinfinancial.com so we can help.&nbsp;
 
