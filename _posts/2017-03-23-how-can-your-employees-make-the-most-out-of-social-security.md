@@ -19,6 +19,7 @@ youtube_code: jsOVTUs96Xg
 {% include youtube.html %}
 
 [Schedule a Consultation](https://secure.scheduleonce.com/Consultation-EpsteinFinancial) - [Click here to get your free book](https://www.epsteinfinancial.com/free-book-offer.html)
+{: style="text-align: center"}
 
 How can your employees maximize the benefits of social security and use it to its full advantages?
 
