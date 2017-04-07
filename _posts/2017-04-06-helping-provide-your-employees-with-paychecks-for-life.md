@@ -25,7 +25,7 @@ I’ve got a question for you.&nbsp;
 
 Are you ready to take action? Are you ready to really dig into your retirement plan and take action to help your employees create paychecks for life? **If you are, we are here to help.**
 
-I would love to hear your questions, comments, and concerns about your retirement plan and how we can help you improve it. Reach out to us at [epsteinfinancial.com](epsteinfinancial.com){:target="_blank"} so we can help.&nbsp;
+I would love to hear your questions, comments, and concerns about your retirement plan and how we can help you improve it. Reach out to us at [epsteinfinancial.com](https://www.epsteinfinancial.com/){:target="_blank"} so we can help.&nbsp;
 
 {% include pullquote.html %}
 
