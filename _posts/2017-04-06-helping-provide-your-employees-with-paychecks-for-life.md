@@ -28,4 +28,4 @@ I would love to hear your questions, comments, and concerns about your retiremen
 
 {% include pullquote.html %}
 
-If you would like us to analyze your specific plan, just reach out to Matt at (413) 539-2379. **We are here to serve you, your employees, and help you help them create a paycheck for life.**
+If you would like us to analyze your specific plan, just reach out to Matt in my office at (413) 539-2379. **We are here to serve you, your employees, and help you help them create a paycheck for life.**
