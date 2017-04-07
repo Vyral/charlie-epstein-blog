@@ -19,14 +19,13 @@ youtube_code: QESVDVolIZg
 {% include youtube.html %}
 
 [Schedule a Consultation](https://secure.scheduleonce.com/Consultation-EpsteinFinancial) - [Click here to get your free book](https://www.epsteinfinancial.com/free-book-offer.html)
-{: style="text-align: center"}
 
 I’ve got a question for you.&nbsp;
 
 Are you ready to take action? Are you ready to really dig into your retirement plan and take action to help your employees create paychecks for life? **If you are, we are here to help.**
 
-I would love to hear your questions, comments, and concerns about your retirement plan and how we can help you improve it. Reach out to us at epsteinfinancial.com so we can help.&nbsp;
+I would love to hear your questions, comments, and concerns about your retirement plan and how we can help you improve it. Reach out to us at [epsteinfinancial.com](epsteinfinancial.com) so we can help.&nbsp;
 
 {% include pullquote.html %}
 
-If you would like us to analyze your specific plan, just reach out to Matt in my office at [mgilmore@epsteinfs.com](javascript:void(location.href='mailto:'+String.fromCharCode(109,103,105,108,109,111,114,101,64,101,112,115,116,101,105,110,102,115,46,99,111,109))) or give him a call at (413)539-2379. **We are here to serve you, your employees, and help you help them create a paycheck for life.**
+If you would like us to analyze your specific plan, just reach out to Matt in my office at [mgilmore@epsteinfs.com](javascript:void(location.href='mailto:'+String.fromCharCode(109,103,105,108,109,111,114,101,64,101,112,115,116,101,105,110,102,115,46,99,111,109))) or give him a call at (413) 539-2379. **We are here to serve you, your employees, and help you help them create a paycheck for life.**
