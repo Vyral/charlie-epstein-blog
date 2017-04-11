@@ -18,6 +18,9 @@ youtube_code: 4RtzfQLoicg
 
 {% include youtube.html %}
 
+[Schedule a Consultation](https://secure.scheduleonce.com/Consultation-EpsteinFinancial) - [Click here to get your free book](https://www.epsteinfinancial.com/free-book-offer.html)
+{: style="text-align: center"}
+
 Today I’m going to be talking about something I like to call Auto to the 5th Power. This a way that you can use technology to automate savings for your employees and make your life easier, especially if you’re an HR director trying to get people to enroll in their retirement plans.&nbsp;
 
 So what exactly is Auto to the 5th Power?
