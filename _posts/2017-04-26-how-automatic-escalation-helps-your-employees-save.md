@@ -18,15 +18,15 @@ youtube_code: _TvLdxPQXdE
 
 {% include youtube.html %}
 
-Welcome back to my series based on my book “Save, America, Save”. Today I’m covering the third automatic feature in “Auto to the 5th Power,” automatic escalation. **This is my all-time favorite automatic feature, and here’s why.**
+Welcome back to my series based on my book “Save America Save”. Today I’m covering the third automatic feature in “Auto to the 5th Power,” automatic escalation. **This is my all-time favorite automatic feature, and here’s why.**
 
 I want to mention up front that I think this is the most important feature you can add to your employees’ retirement plans. In my first book, “Paychecks for Life,” I talk about a very simple mantra called “ten one now.” What does this mean?
 
 **On average, an employee needs to save 10% of their pay if they are going to have a chance at getting to their retirement years with enough money to pay for all the things they desire to do.** Quite frankly, when I stand in front of your employees and tell them to do this, a majority of them are going to say, “Charlie, that’s just not going to happen.”
 
-However, what they don’t realize is that there is more than one way to save that money. **To illustrate that, I like to use an example of three different hypothetical employees: Susan, George, and Morgan.** Let’s assume that each of them are 30 years old, make $40,000 per year, and want to save 10% each year.&nbsp;
+However, they don't realize is that there is more than one way to save that money. **To illustrate that, I like to use an example of three different hypothetical employees: Susan, George, and Morgan.** Let’s assume that each of them are 30 years old, make $40,000 per year, and want to save 10% each year.&nbsp;
 
-Susan says she can save 10% of her pay, and she does it for the next 35 years. After that period of time, she has over $445,000 in her account. That’s a tidy sum.
+Susan says she will save 10% of her pay over the next 35 years. After that period of time, she has over $445,000 in her account. That’s a tidy sum.
 
 {% include pullquote.html %}
 
