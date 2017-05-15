@@ -18,6 +18,9 @@ youtube_code: GC2gddqHLhI
 
 {% include youtube.html %}
 
+[Schedule a Consultation](https://secure.scheduleonce.com/Consultation-EpsteinFinancial) - [Click here to get your free book](https://www.epsteinfinancial.com/free-book-offer.html)
+{: style="text-align: center"}
+
 Today I’m covering another facet of Auto to the 5th Power, automatic re-enrollment. You have can actually re-enroll your employees into that Qualified Default Investment Option, or QDIA, to provide incredible protection for you as a plan sponsor and help your employees save money to create that paycheck for life.&nbsp;
 
 If you’d like to skip ahead and learn all the secrets on how to create the best possible retirement plan for yourself, I’d be happy to get you a copy of my book, “Save America, Save! The Secrets of a Successful 401(k) Plan.” I’d also like to get you a copy of my first book, “Paychecks for Life: How to Turn Your 401(k) into a Paycheck Manufacturing Company.” It contains my nine secret recipes for how your employees can create a paycheck for life. Click here[link] to get your copies.&nbsp;
