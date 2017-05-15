@@ -18,6 +18,9 @@ youtube_code: QRCM4nakPRs
 
 {% include youtube.html %}
 
+[Schedule a Consultation](https://secure.scheduleonce.com/Consultation-EpsteinFinancial) - [Click here to get your free book](https://www.epsteinfinancial.com/free-book-offer.html)
+{: style="text-align: center"}
+
 Welcome back to my series based on my book “Save America Save”. Today I’m covering the third automatic feature in “Auto to the 5th Power,” automatic escalation. **This is my all-time favorite automatic feature, and here’s why.**
 
 I want to mention up front that I think this is the most important feature you can add to your employees’ retirement plans. In my first book, “Paychecks for Life,” I talk about a very simple mantra called “ten one now.” What does this mean?
