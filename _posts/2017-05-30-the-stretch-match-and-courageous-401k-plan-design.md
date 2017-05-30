@@ -18,6 +18,9 @@ youtube_code: 2VxTwkLFHR8
 
 {% include youtube.html %}
 
+[Schedule a Consultation](https://secure.scheduleonce.com/Consultation-EpsteinFinancial) - [Click here to get your free book](https://www.epsteinfinancial.com/free-book-offer.html)
+{: style="text-align: center"}
+
 Welcome back to my series on how to create a successful retirement plan for your employees. In the last few videos, I’ve been talking about the various options you have for automating your employee’s savings to create paychecks for life. However, I want to switch gears today and talk about another important topic. I’m talking about the stretch match and courageous plan design.&nbsp;
 <br>&nbsp;
 <br>**The courageous plan design requires a real commitment on your part as a plan sponsor to do more than just offer investment choices and a reasonable fee.** The truth is that if your employees aren’t incentivized to save more, they won’t save more. What you really have to do is change their mindset by incentivizing them to save more money, otherwise they won’t save enough. Enough is around 10% per year.
