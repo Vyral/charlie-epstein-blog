@@ -19,7 +19,6 @@ youtube_code: 2VxTwkLFHR8
 {% include youtube.html %}
 
 [Schedule a Consultation](https://secure.scheduleonce.com/Consultation-EpsteinFinancial) - [Click here to get your free book](https://www.epsteinfinancial.com/free-book-offer.html)
-{: style="text-align: center"}
 
 Welcome back to my series on how to create a successful retirement plan for your employees. In the last few videos, I’ve been talking about the various options you have for automating your employee’s savings to create paychecks for life. However, I want to switch gears today and talk about another important topic. I’m talking about the stretch match and courageous plan design.&nbsp;
 <br>&nbsp;
@@ -29,7 +28,7 @@ Welcome back to my series on how to create a successful retirement plan for your
 <br>&nbsp;
 <br>On a retirement plan that matches 50 cents on the dollar up to 6%, we’ve found that employees only end up saving 6%, not that 10% that they need. The reason they have for not saving more is that their contributions aren’t being matched, so what’s the point? That’s just their initial mindset.
 <br>&nbsp;
-<br>If you changed your plan design from contributing 50 cents on the dollar up to 6% to 50 cents on the dollar up to 2%, and then 25% on the dollar all the way up to 8%, **your employees would have to save all the way up to 10% to get the entire 3% match.**With this strategy, you’re stretching your matching dollars while also incentivizing your employees to save the 10% they will need to in order to create paychecks for life. The great part about it is that it doesn’t cost you any more money.
+<br>If you changed your plan design from contributing 50 cents on the dollar up to 6% to 50 cents on the dollar up to 2%, and then 25% on the dollar all the way up to 8%, **your employees would have to save all the way up to 10% to get the entire 3% match.&nbsp;**With this strategy, you’re stretching your matching dollars while also incentivizing your employees to save the 10% they will need to in order to create paychecks for life. The great part about it is that it doesn’t cost you any more money.
 <br>&nbsp;
 <br>This is a strategy that works and creates a win-win situation for you and your employees. In my next installment, I’m going to talk about the safe harbor plan designs. There are three of them and each is critical in showing how you as an owner and your highly compensated employees can save the maximum amount allowable by the government.
 <br>&nbsp;
