@@ -19,6 +19,7 @@ youtube_code:
 {% include youtube.html %}
 
 [Schedule a Consultation](https://secure.scheduleonce.com/Consultation-EpsteinFinancial) - [Click here to get your free book](https://www.epsteinfinancial.com/free-book-offer.html)
+{: style="text-align: center"}
 
 Your role and responsibility as a fiduciary of a retirement plan is an important aspect of a 401(k) plan.
 <br>
