@@ -18,6 +18,9 @@ youtube_code:
 
 {% include youtube.html %}
 
+[Schedule a Consultation](https://secure.scheduleonce.com/Consultation-EpsteinFinancial) - [Click here to get your free book](https://www.epsteinfinancial.com/free-book-offer.html)
+{: style="text-align: center"}
+
 Your role and responsibility as a fiduciary of a retirement plan is an important aspect of a 401(k) plan.&nbsp;
 <br>&nbsp;
 <br>ERISA—the rules and regulations that govern how a retirement plan is established and the process you need to have as a plan sponsor—was established in 1974. There’s a very important section that many people overlook, the Exclusive Purpose Rule. It states that when you establish a retirement plan, you’re doing it for the exclusive purpose of providing benefits to your employees and their beneficiaries.&nbsp;
