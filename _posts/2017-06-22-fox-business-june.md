@@ -17,5 +17,3 @@ youtube_code: oGKb6Bmg2Ls
 
 
 {% include youtube.html %}
-
-&nbsp;
