@@ -5,7 +5,7 @@ tags:
   - 401K
   - Financial Consultant
   - Retirement
-excerpt:
+excerpt: "Charlie rejoins Fox Business's Countdown to the Closing Bell to share his thoughts on the secular bull market and give a couple of stock picks ."
 enclosure:
 pullquote:
 enclosure_type: video/mp4
@@ -17,5 +17,3 @@ youtube_code: oGKb6Bmg2Ls
 
 
 {% include youtube.html %}
-
-&nbsp;
