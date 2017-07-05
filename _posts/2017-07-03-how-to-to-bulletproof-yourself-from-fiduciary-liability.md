@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to to Bulletproof Yourself From Fiduciary Liability
+title: How to Bulletproof Yourself From Fiduciary Liability
 tags:
   - 401K
   - Financial Consultant
@@ -17,6 +17,9 @@ youtube_code: Y8zeNay8YUc
 
 
 {% include youtube.html %}
+
+[Schedule a Consultation](https://secure.scheduleonce.com/Consultation-EpsteinFinancial) - [Click here to get your free book](https://www.epsteinfinancial.com/free-book-offer.html)
+{: style="text-align: center"}
 
 We believe that you can design a retirement plan that can nearly bulletproof you from any fiduciary liability. You do this by hiring prudent experts; people who have a **338, 321, or 316 designation.&nbsp;**
 <br>&nbsp;
