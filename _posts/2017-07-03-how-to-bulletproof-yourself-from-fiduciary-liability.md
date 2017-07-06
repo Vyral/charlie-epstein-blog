@@ -19,9 +19,8 @@ youtube_code: Y8zeNay8YUc
 {% include youtube.html %}
 
 [Schedule a Consultation](https://secure.scheduleonce.com/Consultation-EpsteinFinancial) - [Click here to get your free book](https://www.epsteinfinancial.com/free-book-offer.html)
-{: style="text-align: center"}
 
-We believe that you can design a retirement plan that can nearly bulletproof you from any fiduciary liability. You do this by hiring prudent experts; people who have a **338, 321, or 316 designation.&nbsp;**
+We believe that you can design a retirement plan that can nearly bulletproof you from any fiduciary liability. You do this by hiring prudent experts; people who have a **3(38) ;3(21) ;or 3(16); designation.&nbsp;**
 <br>&nbsp;
 <br>Someone with a 338 designation has discretionary authority over the plan's investments. You can hire a prudent expert with this designation to make decisions about which investments you should have in your plan.&nbsp;
 <br>&nbsp;
@@ -33,6 +32,6 @@ We believe that you can design a retirement plan that can nearly bulletproof you
 <br>&nbsp;
 <br>Think about it—you're a busy HR director trying to deal with payroll and the responsibilities of your employees, and now you have the burden of making sure all the notices go out on time and everybody is being communicated with. If these things don't happen, then you can be liable for it.
 <br>&nbsp;
-<br>**Our team can help you design a retirement plan with a fiduciary shield** around it that could bulletproof you as plan sponsor fiduciary by allowing other individuals to be that 338, 321, or 316 and reduce your fiduciary liability. It's not that difficult, but it's important to know what your options are.
+<br>**Our team can help you design a retirement plan with a fiduciary shield** around it that could bulletproof you as a plan sponsor fiduciary by allowing other individuals to be that 3(38); 3(21); or 3(16); and reduce your fiduciary liability. It's not that difficult, but it's important to know what your options are.
 <br>&nbsp;
 <br>If you want to learn more about creating a successful retirement plan, give me a call or send me an email. I look forward to hearing from you.
