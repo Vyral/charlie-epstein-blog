@@ -23,13 +23,13 @@ youtube_code: qhcyheLO9CA
 
 {% include youtube.html %}
 
-What impact can fees have on your employees success in retirement?
+What impact can fees have on your employees' success in retirement?
 
 Well, no one wants to pay more than they have to. **However, when you are the fiduciary of a 401(k) plan, you have a duty of loyalty and prudence.**
 
 In fact, you have personal liability relating to the results of an employee’s participation in your retirement plan. Therefore, it’s critical that you are benchmarking your plan’s fees.
 
-Today, though, I’d like to highlight how you can improve your plants by reducing fees or enhancing investment performance.
+Today, though, I’d like to highlight how you can improve your plans by reducing fees or enhancing investment performance.
 
 If we take a look at the chart featured in the video, we can see that if you are able to reduce an individual's fees by 1.5% it can make a difference of nearly $120,000 more in a 30-year period. &nbsp;
 
