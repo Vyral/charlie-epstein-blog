@@ -25,7 +25,9 @@ I have to say upfront, there’s no guarantee when it comes to investing, but th
 
 One of them is something called automatic rebalancing. This is a feature that just about every record-keeping platform can provide for you—it allows your employees to automatically rebalance their investment options over long periods of time.
 
-Let me give you an example: I pulled a chart on page 98 from my book “Paychecks for Life: How to Turn Your 401(k) Into a Paycheck Manufacturing Company” (1:03), and the data from this chart comes from my dear friend Professor Craig Israelsen— the author of “7Twelve Portfolio,” (www.7TwelvePortfolio.com).
+Let me give you an example: I pulled a chart from page 98 of my book “Paychecks for Life: How to Turn Your 401(k) Into a Paycheck Manufacturing Company,” and the data from this chart comes from my dear friend Professor Craig Israelsen— the author of “7Twelve Portfolio.”&nbsp;
+
+Then I would take this website and just hyperlink the phrase "Professor Craig Israelsen" (www.7TwelvePortfolio.com)
 
 What did Craig and his students uncover in this analysis? They went back over a 40-year period of time, and they compared investing in a portfolio that has seven different asset classes: large-cap stocks, mid-caps, small-caps, international equities, bonds, cash, commodities, and real estate.
 
@@ -33,7 +35,7 @@ They asked themselves, “What would happen if you invested over a 10, 20, 30, o
 
 {% include pullquote.html %}
 
-Let’s look at the results (2:05): over a 10-year period of time, the results were still beneficial. From the period between the years 2000 to 2009, during which we had the technology bubble (and the market dropped almost 48%), if they had just held onto those investments, they would have had a 405% gain, which is nothing to be ashamed of.
+Let’s look at the results: over a 10-year period of time, the results were still beneficial. From the period between the years 2000 to 2009, during which we had the technology bubble (and the market dropped almost 48%), if they had just held onto those investments, they would have had a 405% gain, which is nothing to be ashamed of.
 
 But somebody who took the time to rebalance their account once a year, every year, for forty years, would have seen a gain of 532%. That’s an outperformance of almost 127%, or 31.4% rebalancing advantage.
 
