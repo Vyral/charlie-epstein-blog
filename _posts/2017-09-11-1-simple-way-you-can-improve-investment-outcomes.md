@@ -29,7 +29,7 @@ Let me give you an example: I pulled a chart on page 98 from my book “Paycheck
 
 What did Craig and his students uncover in this analysis? They went back over a 40-year period of time, and they compared investing in a portfolio that has seven different asset classes: large-cap stocks, mid-caps, small-caps, international equities, bonds, cash, commodities, and real estate.
 
-They asked themselves, “What would happen if you invested over a 10-, twenty-, thirty-, or forty-year period, and just held onto those investments, as opposed to somebody who had the same investments who annually rebalanced them, so they always had one-seventh of their money in each asset class?”
+They asked themselves, “What would happen if you invested over a 10, 20, 30, or 40 year period, and just held onto those investments, as opposed to somebody who had the same investments who annually rebalanced them, so they always had one-seventh of their money in each asset class?”
 
 {% include pullquote.html %}
 
