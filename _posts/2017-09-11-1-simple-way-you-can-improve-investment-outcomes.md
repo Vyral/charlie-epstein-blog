@@ -35,7 +35,7 @@ They asked themselves, “What would happen if you invested over a 10, 20, 30, o
 
 Let’s look at the results: over a 10-year period of time, the results were still beneficial. From the period between the years 2000 to 2009, during which we had the technology bubble (and the market dropped almost 48%), if they had just held onto those investments, they would have had a 405% gain, which is nothing to be ashamed of.
 
-But somebody who took the time to rebalance their account once a year, every year, for forty years, would have seen a gain of 532%. That’s an outperformance of almost 127%, or 31.4% rebalancing advantage.
+But somebody who took the time to rebalance their account once a year, every year, for 40 years, would have seen a gain of 532%. That’s an outperformance of almost 127%, or a 31.4% rebalancing advantage.
 
 But here’s the problem: human nature. Employees simply won’t remember to do this. The beauty of automating everything is that all an employee has to do is go online to your record-keeping platform, request that they want their accounts rebalanced as many times as they’d like, and it will be done for them.
 
