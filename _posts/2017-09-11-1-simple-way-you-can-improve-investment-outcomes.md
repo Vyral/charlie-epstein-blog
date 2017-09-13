@@ -25,7 +25,7 @@ I have to say upfront, there’s no guarantee when it comes to investing, but th
 
 One of them is something called automatic rebalancing. This is a feature that just about every record-keeping platform can provide for you—it allows your employees to automatically rebalance their investment options over long periods of time.
 
-Let me give you an example: I pulled a chart from page 98 of my book “Paychecks for Life: How to Turn Your 401(k) Into a Paycheck Manufacturing Company,” and the data from this chart comes from my dear friend [Professor Craig Israelsen](www.7TwelvePortfolio.com)— the author of “7Twelve Portfolio."
+Let me give you an example: I pulled a chart from page 98 of my book “Paychecks for Life: How to Turn Your 401(k) Into a Paycheck Manufacturing Company,” and the data from this chart comes from my dear friend Professor Craig Israelsen— the author of “7Twelve Portfolio."
 
 What did Craig and his students uncover in this analysis? They went back over a 40-year period of time, and they compared investing in a portfolio that has seven different asset classes: large-cap stocks, mid-caps, small-caps, international equities, bonds, cash, commodities, and real estate.
 
