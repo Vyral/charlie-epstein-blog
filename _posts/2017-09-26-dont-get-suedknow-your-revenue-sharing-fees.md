@@ -27,7 +27,7 @@ In the video above, I’ve added a slide of a revenue sharing dial which breaks 
 
 **So how are revenue sharing fees paid in your retirement plan? I’ll give you an example.**
 
-{% include<strong> </strong>pullquote.html %}
+{% include pullquote.html %}
 
 Let’s imagine you have a mutual fund in your retirement plan and the expense ratio is 1%. Of that 1%, let’s assume 0.5% (or 50 basis points) goes to your mutual fund manager as a managing investment fee.
 
