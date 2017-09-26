@@ -2,7 +2,7 @@
 layout: post
 title: Don’t Get Sued—Know Your Revenue Sharing Fees
 tags:
-  - Retirement
+  - 401K
 excerpt: >-
   If you don’t know how your revenue sharing fees are paid out, you need to
   learn quickly. Today I want to help you with that.
