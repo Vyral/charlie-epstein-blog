@@ -23,7 +23,7 @@ In case you didn’t know, revenue sharing has been the basis for the largest li
 
 These lawsuits happen because these law firms claim you don’t understand all the fees in your retirement plan, how those fees are paid, who they’re being paid to, and whether or not they’re reasonable.
 
-In the video above, I’ve added a slide of a revenue sharing dial which breaks down all the fees and expenses that could be paid inside your retirement plan so you can follow along as I explain each portion. When I show a planned sponsor this dial, 80% of the time, they tell me it’s the first time they’ve ever seen it, In fact, we recently took over a $10 million retirement plan from a planned sponsor who told us he’d been asking his broker for years who was getting paid and how they were getting paid.
+In the video above, I’ve added a slide of a revenue sharing dial which breaks down all the fees and expenses that could be paid inside your retirement plan so you can follow along as I explain each portion. When I show a planned sponsor this dial, 80% of the time, they tell me it’s the first time they’ve ever seen the chart. In fact, we recently took over a $10 million retirement plan from a planned sponsor who told us he’d been asking his broker for years who was getting paid and how they were getting paid.
 
 **So how are revenue sharing fees paid in your retirement plan? I’ll give you an example.**
 
