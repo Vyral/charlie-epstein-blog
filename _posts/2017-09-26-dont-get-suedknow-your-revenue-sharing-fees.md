@@ -7,13 +7,13 @@ excerpt: >-
   If you don’t know how your revenue sharing fees are paid out, you need to
   learn quickly. Today I want to help you with that.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Charlie+Epstein/Videos/2017+Videos/Automatic+Rebalancing+-+The+401K+Coach.mp4
+  https://s3.amazonaws.com/vyralmarketing/Charlie+Epstein/Videos/2017+Videos/Revenue+Sharing-+The+401K+Coach.mp4
 pullquote: We can help you protect yourself against a fiduciary liability lawsuit.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: wpy-jznvpgk
+youtube_code: qz9emGeZkHw
 ---
 
 
@@ -41,6 +41,6 @@ If you have a plan where the average fund expense is 1.25%, you have another 0.2
 
 As a planned sponsor fiduciary, there are certain questions you must ask yourself. Are those fees reasonable? Can you reduce those fees? If so, how?
 
-**We can help you with those questions by offering our B-1 Vendor Benchmarking service free of charge.&nbsp;**All you have to do is give Matt Gilmore, one of our planning consultants, a call at (413) 539-2379. He’ll help you uncover all the fees in your plan and protect you from a fiduciary liability lawsuit by benchmarking those fees.
+**We can help you with those questions by offering our B-1 Vendor Benchmarking service free of charge.**All you have to do is give Matt Gilmore, one of our planning consultants, a call at (413) 539-2379. He’ll help you uncover all the fees in your plan and protect you from a fiduciary liability lawsuit by benchmarking those fees.
 
 If you have any other questions about revenue sharing or creating a paycheck for life, don’t hesitate to give me a call or send me an email. I’d be glad to help.
