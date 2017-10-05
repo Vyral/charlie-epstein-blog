@@ -39,6 +39,6 @@ As a plan sponsor it’s important that you understand all the fees in your plan
 
 If you’d like to learn more about safeguarding your retirement plan, p**ick up a free copy of my book “Save America, Save! The Secrets of a Successful Retirement Plan.”** You can get your copy at <a href="www.EpsteinFinancial.com" target="_blank">www.EpsteinFinancial.com</a>.
 
-Also, if you’re interested in having us evaluate your plan for you, we’d be happy to do a free consultation. Reach out to Matt Gilmore from my office by email at mgilmore@epsteinfs.com or by phone at (413) 539-2379.
+Also, if you’re interested in having us evaluate your plan for you, we’d be happy to do a free consultation. Reach out to Matt Gilmore from my office by email at <a href=" mailto:mgilmore@epsteinfs.com" target="_blank"> mgilmore@epsteinfs.com</a> or by phone at (413) 539-2379.
 
 If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
