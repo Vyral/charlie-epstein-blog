@@ -29,7 +29,7 @@ But, what’s the difference between these? **An institutional mutual fund is th
 
 A retail mutual fund has higher fees. These fees compensate your broker advisor and also may cover other revenue sharing expenses.
 
-The judge in Tibble v. Edison ultimately determined that the trustees failed their duty of loyalty and prudence. The employer in Tibble v. Edison used retail mutual funds with revenue sharing, resulting in more expensive funds for the employees &nbsp;According to the judge, **they were accountable to either know or ask if there was a cheaper share class they could have purchased**and provided to their employees.
+The judge in Tibble v. Edison ultimately determined that the trustees failed their duty of loyalty and prudence. The employer in Tibble v. Edison used retail mutual funds with revenue sharing, resulting in more expensive funds for the employees &nbsp;According to the judge, **they were accountable to either know or ask if there was a cheaper share class they could have purchased&nbsp;**and provided to their employees.
 
 {% include pullquote.html %}
 
@@ -37,8 +37,8 @@ The employer very well could have used institutional funds that were less expens
 
 As a plan sponsor it’s important that you understand all the fees in your plan, so that you can make prudent decisions in the best interests of your employees.
 
-If you’d like to learn more about safeguarding your retirement plan, p**ick up a free copy of my book “Save America, Save! The Secrets of a Successful Retirement Plan.”** You can get your copy at <a href="www.EpsteinFinancial.com" target="_blank">www.EpsteinFinancial.com</a>.
+If you’d like to learn more about safeguarding your retirement plan, **p****ick up a free copy of my book “Save America, Save! The Secrets of a Successful Retirement Plan.”** You can get your copy at [www.EpsteinFinancial.com](www.EpsteinFinancial.com).
 
-Also, if you’re interested in having us evaluate your plan for you, we’d be happy to do a free consultation. Reach out to Matt Gilmore from my office by email at <a href=" mailto:mgilmore@epsteinfs.com" target="_blank"> mgilmore@epsteinfs.com</a> or by phone at (413) 539-2379.
+Also, if you’re interested in having us evaluate your plan for you, we’d be happy to do a free consultation. Reach out to Matt Gilmore from my office by email at [ mgilmore@epsteinfs.com]( mailto:mgilmore@epsteinfs.com) or by phone at (413) 539-2379.
 
 If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
