@@ -37,7 +37,7 @@ The employer very well could have used institutional funds that were less expens
 
 As a plan sponsor it’s important that you understand all the fees in your plan, so that you can make prudent decisions in the best interests of your employees.
 
-If you’d like to learn more about safeguarding your retirement plan, p**ick up a free copy of my book “Save America, Save! The Secrets of a Successful Retirement Plan.”** You can get your copy at www.EpsteinFinancial.com.
+If you’d like to learn more about safeguarding your retirement plan, p**ick up a free copy of my book “Save America, Save! The Secrets of a Successful Retirement Plan.”** You can get your copy at <a href="www.EpsteinFinancial.com" target="_blank">www.EpsteinFinancial.com</a>.
 
 Also, if you’re interested in having us evaluate your plan for you, we’d be happy to do a free consultation. Reach out to Matt Gilmore from my office by email at mgilmore@epsteinfs.com or by phone at (413) 539-2379.
 
