@@ -31,7 +31,7 @@ But, what’s the difference between these? **An institutional mutual fund is th
 
 A retail mutual fund has higher fees. These fees compensate your broker advisor and also may cover other revenue sharing expenses.
 
-The judge in *Tibble v. Edison* ultimately determined that the trustees failed their duty of loyalty and prudence. The employer in *Tibble v. Edison* used retail mutual funds with revenue sharing, resulting in more expensive funds for the employees &nbsp;According to the judge, **they were accountable to either know or ask if there was a cheaper share class they could have purchased&nbsp;**and provided to their employees.&nbsp;
+The judge in *Tibble v. Edison* ultimately determined that the trustees failed their duty of loyalty and prudence. The employer in *Tibble v. Edison* used retail mutual funds with revenue sharing, resulting in more expensive funds for the employees &nbsp;According to the judge, they were accountable to either know or ask if there was a cheaper share class they could have purchased**&nbsp;**and provided to their employees.&nbsp;
 
 {% include pullquote.html %}
 
