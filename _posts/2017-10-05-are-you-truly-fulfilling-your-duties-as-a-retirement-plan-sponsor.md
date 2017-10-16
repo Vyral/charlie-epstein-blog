@@ -21,7 +21,7 @@ youtube_code: yxZEzlsV2fo
 
 {% include youtube.html %}
 
-There’s a lot of activity right now in the 401(k) industry, but today I want to talk specifically about a court case that has been dragging out for the past six or seven years:* Tibble v. Edison.*
+There’s a lot of activity right now in the 401(k) industry, but today I want to talk specifically about a court case that has been dragging out for the past six or seven years: <i>Tibble v. Edison.</i>
 
 In this case, the judge finally ruled that if you have a 401(k) plan, you’ve got a duty of prudence and loyalty to your participants. You must make sure to monitor your investment plans. With the correct process in place, you should be able to prudently choose investments for your employees.
 
@@ -31,7 +31,7 @@ But, what’s the difference between these? **An institutional mutual fund is th
 
 A retail mutual fund has higher fees. These fees compensate your broker advisor and also may cover other revenue sharing expenses.
 
-The judge in *Tibble v. Edison* ultimately determined that the trustees failed their duty of loyalty and prudence. The employer in *Tibble v. Edison* used retail mutual funds with revenue sharing, resulting in more expensive funds for the employees &nbsp;According to the judge, **they were accountable to either know or ask if there was a cheaper share class they could have purchased&nbsp;**and provided to their employees.
+The judge in <i>Tibble v. Edison</i> ultimately determined that the trustees failed their duty of loyalty and prudence. The employer in <i>Tibble v. Edison</i> used retail mutual funds with revenue sharing, resulting in more expensive funds for the employees &nbsp;According to the judge, **they were accountable to either know or ask if there was a cheaper share class they could have purchased&nbsp;**and provided to their employees.
 
 {% include pullquote.html %}
 
