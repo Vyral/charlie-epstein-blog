@@ -2,7 +2,6 @@
 layout: post
 title: Are You Truly Fulfilling Your Duties as a Retirement Plan Sponsor?
 tags:
-  - Retirement
 excerpt: >-
   Today I want to talk about what retirement plan sponsors can learn from the
   results of a recent court case. All in all, you’ve got a duty of prudence and
