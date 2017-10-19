@@ -37,10 +37,11 @@ client:
   brokerage:
   address: '330 Whitney Avenue, Suite 610<br>Holyoke, MA 01040'
   service: <b>Krista Krupa</b><br>Retirement Plans Specialist
-  service2:
+  service2: Matthew Gilmore<br>Retirement Plan Consultant
   phone: 413-539-2371
-  email: kkrupa@epsteinfs.com
-  email2:
+  phone2: 413-539-2379
+  email: KKrupa@EpsteinFS.com
+  email2: MGilmore@EpsteinFS.com
   url: www.epsteinfinancial.com
   first_CTA_text: Get Our Free Book
   first_CTA_URL: https://www.epsteinfinancial.com/free-book-offer.html
