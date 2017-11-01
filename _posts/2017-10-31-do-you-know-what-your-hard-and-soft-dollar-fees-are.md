@@ -25,13 +25,13 @@ As I mentioned in my [last video](/are-you-truly-fulfilling-your-duties-as-a-ret
 
 As a plan sponsor fiduciary, you have a duty of prudence and a duty of loyalty. You need to be loyal to your employees and make sure you do everything in their best interests. In order to do that, **you need to have a process for monitoring the investments in your retirement plan and being prudent about that process.**
 
-With that in mind, I want to cover the fees and expenses in a retirement plan, primarily the hard dollar and soft dollar costs. You need to know who your service providers are, the services they provide, the fees they charge for their services(they can be both hard and soft dollar fees), whether the fees are reasonable, who’s acting as a fiduciary to your plan, and whether anyone has a conflict of interest in that process.
+With that in mind, I want to cover the fees and expenses in a retirement plan, primarily the hard dollar and soft dollar costs. You need to know who your service providers are, the services they provide, the fees they charge for their services (they can be both hard and soft dollar fees), whether the fees are reasonable, who’s acting as a fiduciary to your plan, and whether anyone has a conflict of interest in that process.
 
-On page 66 and 67 in my book “Save America, Save!” I lay out what the hard dollar and soft dollar fees are in a retirement plan
+On page 66 and 67 in my book “Save America, Save!” I lay out what the hard dollar and soft dollar fees are in a retirement plan.
 
 {% include pullquote.html %}
 
-**Hard dollar fees are typically fees you pay directly to your service providers.**You could write a check to your third-party administrator if you have one and pay them an annual administration fee and maybe a per participation fee for each person in the plan. You might also write a check directly to your advisor, which you could deduct out of your corporation. You could also write a check to your record keeper.
+**Hard dollar fees are typically fees you pay directly to your service providers.&nbsp;**You could write a check to your third-party administrator if you have one and pay them an annual administration fee and maybe a per participation fee for each person in the plan. You might also write a check directly to your advisor, which you could deduct out of your corporation. You could also write a check to your record keeper.
 
 Most plan sponsors may have all of those fees bundled and coming out of the mutual funds in the plan, or what’s known as a soft dollar fee. **Soft dollar fees are when you pay your service providers indirectly from your mutual fund.** This is where you can get into trouble, though, because soft dollar fees are a slippery slope and the reason why Tibble v. Edison ended up as a lawsuit.
 
