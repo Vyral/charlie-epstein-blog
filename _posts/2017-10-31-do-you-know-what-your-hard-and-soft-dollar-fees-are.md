@@ -31,7 +31,7 @@ On page 66 and 67 in my book “Save America, Save!” I lay out what the hard d
 
 {% include pullquote.html %}
 
-**Hard dollar fees are typically fees you pay directly to your service providers.**You could write a check to your third-party administrator (if you have one) and pay them an annual administration fee and maybe a participation fee for each person in the plan. You might write a check directly to your advisor, which you could deduct out of your corporation. You could also write a check to your record keeper. All of these hard dollar fees come out of the company’s pocket rather than the participant accounts.
+**Hard dollar fees are typically fees you pay directly to your service providers. &nbsp;**You could write a check to your third-party administrator (if you have one) and pay them an annual administration fee and maybe a participation fee for each person in the plan. You might write a check directly to your advisor, which you could deduct out of your corporation. You could also write a check to your record keeper. All of these hard dollar fees come out of the company’s pocket rather than the participant accounts.
 
 Most plan sponsors may have all of those fees bundled and coming out of the mutual funds in the plan, or what’s known as a soft dollar fee.&nbsp;**Soft dollar fees are when you pay your service providers indirectly from your mutual fund.**&nbsp;This is where you can get into trouble, though, because soft dollar fees are a slippery slope and the reason why ***Tibble v. Edison*** ended up as a lawsuit.
 
