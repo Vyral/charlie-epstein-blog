@@ -21,7 +21,7 @@ youtube_code: xiDhK6UhnP8
 
 {% include youtube.html %}
 
-As I mentioned in my [last video](/are-you-truly-fulfilling-your-duties-as-a-retirement-plan-sponsor.html), the recent court case of *Tibble v. Edison* is something that you as a planned sponsor fiduciary need to understand because it pertains to the fees and expenses in your plan and what types of share class or mutual funds you have in that plan.
+As I mentioned in my [last video](/are-you-truly-fulfilling-your-duties-as-a-retirement-plan-sponsor.html), the recent court case of ***Tibble v. Edison*** is something that you as a planned sponsor fiduciary need to understand because it pertains to the fees and expenses in your plan and what types of share class or mutual funds you have in that plan.
 
 As a plan sponsor fiduciary, you have a duty of prudence and a duty of loyalty. You need to be loyal to your employees and make sure you do everything in their best interests. In order to do that, **you need to have a process for monitoring the investments in your retirement plan and being prudent about that process.**
 
