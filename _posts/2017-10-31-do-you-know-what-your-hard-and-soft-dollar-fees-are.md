@@ -25,7 +25,15 @@ As I mentioned in my&nbsp;[last video](/are-you-truly-fulfilling-your-duties-as-
 
 As a plan sponsor fiduciary, you have a duty of prudence and a duty of loyalty. You need to be loyal to your employees and make sure you do everything in their best interests. To do that,**&nbsp;you need to have a process for monitoring the investments in your retirement plan and being prudent about that process.**
 
-With that in mind, I want to cover the fees and expenses in a retirement plan, primarily the hard dollar and soft dollar costs. You need to know:<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;who your service providers are;<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;what services they provide;<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;the fees they charge for their services (they can be both hard and soft dollar fees);<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;whether the fees are reasonable;<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;who’s acting as a fiduciary to your plan, and<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;whether anyone has a conflict of interest in that process.
+With that in mind, I want to cover the fees and expenses in a retirement plan, primarily the hard dollar and soft dollar costs. You need to know:
+
+* Who your service providers are.
+* What services they provide . &nbsp;
+* What services they provide. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+* What are the fees they charge for their services (they can be both hard and soft dollar fees).
+* Whether the fees are reasonable. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+* Who' acting as a fiduciary to your plan.
+* Whether anyone has a conflict of interest in that process. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
 
 On page 66 and 67 in my book “Save America, Save!” I lay out what the hard dollar and soft dollar fees are in a retirement plan.
 
