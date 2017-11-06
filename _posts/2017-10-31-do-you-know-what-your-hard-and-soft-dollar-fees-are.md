@@ -28,11 +28,17 @@ As a plan sponsor fiduciary, you have a duty of prudence and a duty of loyalty. 
 With that in mind, I want to cover the fees and expenses in a retirement plan, primarily the hard dollar and soft dollar costs. You need to know:
 
 * Who your service providers are.
+
 * What services they provide . &nbsp;
+
 * What services they provide. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+
 * What are the fees they charge for their services (they can be both hard and soft dollar fees).
+
 * Whether the fees are reasonable. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+
 * Who' acting as a fiduciary to your plan.
+
 * Whether anyone has a conflict of interest in that process. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
 
 On page 66 and 67 in my book “Save America, Save!” I lay out what the hard dollar and soft dollar fees are in a retirement plan.
