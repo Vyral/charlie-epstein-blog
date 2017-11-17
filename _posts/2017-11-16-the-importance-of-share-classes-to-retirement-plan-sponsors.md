@@ -20,7 +20,7 @@ youtube_code: rQKKf4GjOok
 
 In my last few videos, I’ve been talking about things like revenue sharing and expenses. Today, I’d like to dive a little bit deeper into this topic by talking about share classes.&nbsp;**We’ll focus on the different kinds of share classes that mutual fund companies have, why they have them, and what you need to be aware of as a plan sponsor to avoid a potential lawsuit.**
 
-Even if you don’t have a huge retirement plan with $3 billion in assets, you need to behave with a duty of prudence and loyalty as if you do. On page 72 of my book, “Save America, Save: The Secrets to a Successful 401(k) Plan”, there’s a little chart titled “Share Class Matters” that I want you to look at.&nbsp;**You can see it in the video above.**
+Even if you don’t have a huge retirement plan with $3 billion in assets, you need to behave with a duty of prudence and loyalty as if you do. On page 72 of my book, “Save America, Save: The Secrets to a Successful 401(k) Plan,” there’s a little chart titled “Share Class Matters” that I want you to look at.&nbsp;**You can see it in the video above.**
 
 In this particular case, you see three share classes: R3, R4, and R6. When you establish a retirement plan, you have to decide how you’re going to pay the expenses involved with the plan. The R3 share class has an expense ratio of 1.14%. This means that the fund is reduced by 1.14% to pay for the expenses in the plan. There are also revenue sharing numbers that need to be considered. In the R3 share class, there are 65 basis points of revenue sharing, which are used to pay your broker and record keeper. With this share class, you are basically saying that you don’t want to pick up any expenses and your employees can pay for them out of revenue sharing.
 
