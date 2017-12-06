@@ -6,13 +6,14 @@ tags:
 excerpt: >-
   Your employees can’t create paychecks for life if they don’t participate.
   Here’s why.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Charlie+Epstein/Videos/2017+Videos/Paychecks+For+Life+-+The+401K+Coach.mp4
 pullquote: The perfect plan requires employee participation.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code:
+youtube_code: 1ClEZMYdxAM
 ---
 
 
@@ -31,5 +32,3 @@ ERISA is the law that established the retirement plan industry in 1974. Before t
 My next series of posts will focus on how you can help your employees become more engaged and excited in order to maximize their contributions toward their retirement plan to create that paycheck for life.
 
 If you have any questions for me about this topic or anything related to my book, “Paychecks for Life”, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.
-
-&nbsp;
