@@ -21,7 +21,7 @@ youtube_code: 1ClEZMYdxAM
 
 Today I’m going to give you the secret to turning your 401(k) plan into a paycheck manufacturing company. First, let’s imagine you have the best 401(k) plan possible. You might have that plan already.
 
-**Creating this plan requires making all of your decisions in the best interests of your employees.** It also requires meeting on a quarterly basis with your advisor. You should have lots of investments that cost nothing. This sounds like the perfect retirement plan, but it’s not quite. Something is missing: Your employees’ contributions. What can you do if they aren’t contributing enough to the plan to maximize its benefits and create those paychecks for life?
+**Creating this plan requires making all of your decisions in the best interests of your employees.** It also requires meeting on a quarterly basis with your advisor. You should have lots of investments that cost nothing. This sounds like the perfect retirement plan, but it’s not quite. Something is missing: your employees’ contributions. What can you do if they aren’t contributing enough to the plan to maximize its benefits and create those paychecks for life?
 
 {% include pullquote.html %}
 
@@ -31,4 +31,4 @@ ERISA is the law that established the retirement plan industry in 1974. Before t
 
 My next series of posts will focus on how you can help your employees become more engaged and excited in order to maximize their contributions toward their retirement plan to create that paycheck for life.
 
-If you have any questions for me about this topic or anything related to my book, “Paychecks for Life”, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.
+If you have any questions for me about this topic or anything related to my book, “Paychecks for Life,” don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.
