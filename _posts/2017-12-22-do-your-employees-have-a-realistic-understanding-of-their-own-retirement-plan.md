@@ -37,7 +37,7 @@ Now, if I were to ask your employees, “Can you tell me what your needs-based r
 
 Since your employees don’t know what their needs-based rate of return is, **we have a calculator available called the Desirement Mortgage Calculator**. In another blog entry, I’ll go into detail about the desirement mortgage calculator concept.&nbsp;
 
-But we will tell your employees that it is critical that they have their needs-based rate of return calculated because today, more than ever, **people need to know what they need to earn on their money, year-in and year-out with the least amount of risk, that will guarantee that they will have a paycheck for the rest of their life.**I go into more details about that in my first book, “Paychecks For Life: How to Turn Your 401(k) Into a Paycheck Manufacturing Company,” which I also send you a copy of at the link mentioned earlier in this blog.&nbsp;
+But we will tell your employees that it is critical that they have their needs-based rate of return calculated because today, more than ever, **people need to know what they need to earn on their money, year-in and year-out with the least amount of risk, that will guarantee that they will have a paycheck for the rest of their life.&nbsp;**I go into more details about that in my first book, “Paychecks For Life: How to Turn Your 401(k) Into a Paycheck Manufacturing Company,” which I also send you a copy of at the link mentioned earlier in this blog.&nbsp;
 
 Stay tuned for my next blog, where I talk about what I call a gap statement and how we show your employees how to project out their investment and saving returns, how to identify their needs-based rate of return, and how to create that paycheck for life.&nbsp;
 
