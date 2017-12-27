@@ -21,11 +21,11 @@ youtube_code: IYidOjxvSwE
 
 {% include youtube.html %}
 
-Today I want to focus on something I call “needs-based versus greeds-based” rate of return. Before getting into the details of this and why it’s so important, however, I want to make sure that you have an opportunity to get my book “Save America, Save!: The Secrets of a Successful Retirement Plan.” It’s chock-full of all of my secrets on how to turn your 401(k) into a successful retirement plan.
+Today I want to focus on something I call “needs-based versus greeds-based” rate of return. Before getting into the details of this and why it’s so important, however, I want to make sure that [you have an opportunity to get my book “Save America, Save!: The Secrets of a Successful Retirement Plan.”](https://www.epsteinfinancial.com/free-book-offer.html) It’s chock-full of all of my secrets on how to turn your 401(k) into a successful retirement plan.
 
 We are passionate about teaching employees how to create a paycheck for life, and how to turn their 401(k) into a paycheck manufacturing company. But if I asked your employees how much they want to earn on the money they’re contributing to the retirement plan, do you know what they’d say to me? They’d say 10% up to even 50%!
 
-In other words**, your employees’ greeds-based rate of return is an unrealistic number.** They actually believe, year-in and year-out, that they’re going to get a 10% to 50% rate of return on their investment.
+In other words,** your employees’ greeds-based rate of return is an unrealistic number.** They actually believe, year-in and year-out, that they’re going to get a 10% to 50% rate of return on their investment.
 
 We’ve been in a nine-year bull market. There are employees who have been contributing to their retirement plan in their 20s that have never experienced a bear market, which is a drop of 20% more in their account value. **This is critical.** It’s also what I think makes the 401(k) plan America’s largest casino, because people are rolling the dice when it comes to their returns.&nbsp;
 
