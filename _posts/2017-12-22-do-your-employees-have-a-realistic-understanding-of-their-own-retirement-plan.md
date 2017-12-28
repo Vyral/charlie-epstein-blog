@@ -31,7 +31,7 @@ We’ve been in a nine-year bull market. There are employees in their 20's who h
 
 Now if I were to ask your employees, “Can you tell me what your needs-based rate of return is?”, the answer I’d get would be open-mouthed silence. **They don’t know what that is.**
 
-**The needs-based rate of return is the single most important rate of return.** &nbsp;My own definition of what constitutes “needs-based” is what rate of return employees need to earn on their money, year-in and year-out, with the least amount of risk that will almost guarantee that they’ll have a paycheck for the rest of your life. &nbsp;It is critical that your employees calculate their needs-based rate of return today.
+**The needs-based rate of return is the single most important rate of return.** &nbsp;My own definition of what constitutes “needs-based” is what rate of return employees need to earn on their money, year-in and year-out, with the least amount of risk that will almost guarantee that they’ll have a paycheck for the rest of their life. &nbsp;It is critical that your employees calculate their needs-based rate of return today.
 
 {% include pullquote.html %}
 
