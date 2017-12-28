@@ -23,7 +23,7 @@ youtube_code: IYidOjxvSwE
 
 Today I want to focus on something I call “needs-based versus greeds-based” rate of return. Before getting into the details of this and why it’s so important, [I want to make sure that you have an opportunity to get my book “Save America, Save!: The Secrets of a Successful Retirement Plan.”](https://www.epsteinfinancial.com/free-book-offer.html) It’s chock-full of all of my secrets on how to turn your 401(k) into a successful retirement plan.
 
-We are passionate about teaching employees how to create a paycheck for life, and how to turn their 401(k) into a paycheck manufacturing company. But if I asked your employees how much they want to earn on the money they’re contributing to their retirement plan, do you know what they’d say to me? They’d say 10%, or even up to 50%!
+We are passionate about teaching employees how to create a paycheck for life and how to turn their 401(k) into a paycheck manufacturing company. But if I asked your employees how much they want to earn on the money they’re contributing to their retirement plan, do you know what they’d say to me? They’d say 10%, or even up to 50%!
 
 In other words, **your employees’ greeds-based rate of return is an unrealistic number.** They actually believe that they’re going to get a 10 to 50% rate of return on their investment, year-in and year-out.
 
