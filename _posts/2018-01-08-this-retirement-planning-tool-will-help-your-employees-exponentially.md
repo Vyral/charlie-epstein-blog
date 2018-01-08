@@ -38,6 +38,6 @@ This report will not only tell employees how much they’ll be saving toward ret
 
 **Ultimately, the net cost for them to increase their contributions may not be as much as they think.**
 
-For a free copy of the Gap Analysis, click here.
+[For a free copy of the Gap Analysis, click here.](https://s3.amazonaws.com/vyralmarketing/Charlie+Epstein/GAP.pdf)
 
 If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
