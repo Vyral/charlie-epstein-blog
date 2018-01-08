@@ -32,7 +32,7 @@ Now, the Gap Statement will show your employees how much of a monthly income the
 
 {% include pullquote.html %}
 
-It will also show how much more monthly income employees can have if they gradually increase their savings rate. This monthly income has a lot to do with something called the income replacement ratio, which I will discuss further in a future video.
+It will also show how much more monthly income employees can have if they gradually increase their savings rate. This monthly income has a lot to do with something called the income replacement ratio which I will discuss further in a future video.
 
 This report will not only tell employees how much they’ll be saving toward retirement, but also how much they’ll save in terms of taxes.
 
