@@ -1,6 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://blog.epsteinfinancial.com/this-retirement-planning-tool-will-help-your-employees-exponentially.html</loc>
+<lastmod>2018-01-08T00:00:00-06:00</lastmod>
+</url>
+<url>
+<loc>http://blog.epsteinfinancial.com/do-your-employees-have-a-realistic-understanding-of-their-own-retirement-plan.html</loc>
+<lastmod>2017-12-22T00:00:00-06:00</lastmod>
+</url>
+<url>
+<loc>http://blog.epsteinfinancial.com/the-first-steps-to-creating-paychecks-for-life.html</loc>
+<lastmod>2017-12-06T00:00:00-06:00</lastmod>
+</url>
+<url>
+<loc>http://blog.epsteinfinancial.com/the-importance-of-share-classes-to-retirement-plan-sponsors.html</loc>
+<lastmod>2017-11-16T00:00:00-06:00</lastmod>
+</url>
+<url>
+<loc>http://blog.epsteinfinancial.com/do-you-know-what-your-hard-and-soft-dollar-fees-are.html</loc>
+<lastmod>2017-10-31T00:00:00-05:00</lastmod>
+</url>
+<url>
 <loc>http://blog.epsteinfinancial.com/are-you-truly-fulfilling-your-duties-as-a-retirement-plan-sponsor.html</loc>
 <lastmod>2017-10-05T00:00:00-05:00</lastmod>
 </url>
@@ -101,6 +121,9 @@
 </url>
 <url>
 <loc>http://blog.epsteinfinancial.com/page4/</loc>
+</url>
+<url>
+<loc>http://blog.epsteinfinancial.com/page5/</loc>
 </url>
 <url>
 <loc>http://blog.epsteinfinancial.com/bower_components/jPlayer/dist/skin/blue.monday/mustache/jplayer.blue.monday.audio.playlist.html</loc>
