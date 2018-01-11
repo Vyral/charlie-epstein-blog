@@ -22,13 +22,13 @@ youtube_code: e_JXFnsB-RU
 
 Today, we’re going to focus on what I call “the Gap Statement.”
 
-Recently, we’ve been talking a lot about employee engagement. If you aren’t taking advantage of the Retirement Gap Analysis Report, though, **you aren’t helping your employees to the fullest extent.**
+Recently, we’ve been talking a lot about employee engagement. If you aren’t taking advantage of the Retirement Gap Analysis Report, however,&nbsp;**you aren’t helping your employees to the fullest extent.**
 
-This report specifically tells your employees what they need to save for retirement based on their needs-based rate of return, which is the least amount of risk they need to take in order to achieve a near-guaranteed paycheck for the rest of their life.
+This report specifically tells your employees what they need to save for retirement based on their needs-based rate of return, which is the least amount of risk they need to take to achieve a near-guaranteed paycheck for the rest of their life.
 
 In other words: What is the return your employees need to earn with the least amount of risk?
 
-Now, the Gap Statement will show your employees how much of a monthly income they’re going to have when they reach their retirement years. It’ll take into account a number of things, and will **then show them the gap between their current monthly income and what they need to live on.**
+Now, the Gap Statement will show your employees how much of a monthly income they’re going to have when they reach their retirement years. It’ll consider a number of things, and will&nbsp;**then show them the gap between their current monthly income and what they need to live on.**
 
 {% include pullquote.html %}
 
