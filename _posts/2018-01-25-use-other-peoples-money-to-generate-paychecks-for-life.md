@@ -22,7 +22,7 @@ youtube_code: H1YfImmVn7Y
 
 In this series, we’ve been talking about how to get your employees engaged in saving for their retirement plan. Today’s topic is one of my favorites: something called “OPM.”
 
-Perhaps you remember the movie “Other People’s Money”, starring Danny Devito. Well, **in the 401(k) plan, employees have the opportunity to capture other people’s money as well.**
+Perhaps you remember the movie “Other People’s Money," starring Danny Devito. Well, **in the 401(k) plan, employees have the opportunity to capture other people’s money as well.**
 
 The first thing that I like to talk about with employees is that, in their 401(k) plans, they actually have two partners that contribute money to their plan: Uncle Sam (the government), and you (their employer).
 
@@ -34,7 +34,7 @@ The answer is no. You’re never going to get that money once Uncle Sam takes it
 
 You might be thinking that that’s not a lot of money. But here’s something to think about: Suppose that they just took one penny from that dollar. Imagine a chessboard with 30 squares, and **each day you move the penny one square over, and each time you move the penny, it doubles in value.** So the first day, it’d be one cent, two cents the next day, four cents the next day, and so on.<br><br>Here’s the multimillion-dollar question: If the value of that penny doubled with every square it moved each day, what will it be worth on the thirtieth square?
 
-Your employees might give a range of answers from $3 to $300,000. In reality, **however, that penny would be worth $5,368,709.12.**That’s a lot of pennies.
+Your employees might give a range of answers from $3 to $300,000. In reality, **however, that penny would be worth $5,368,709.12.&nbsp;**That’s a lot of pennies.
 
 What’s the point of this story? Well, first of all, we’re not guaranteeing that your money will double every day. It’s just a demonstration of the **power of compound interest.**
 
