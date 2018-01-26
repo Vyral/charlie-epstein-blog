@@ -39,5 +39,3 @@ If you do that, what’ll be the rate of return on your $70? It’s almost a 33.
 It’s so critical for your employees to understand that if they aren’t using other people’s money, they’re missing out on an enormous opportunity.
 
 We want to teach your employees, in simple language, how to calculate what they need to save, how to take advantage of other people’s money, and how to create that paycheck for life.
-
-I want to give you a copy of my book “Paychecks for Life: How to Turn Your 401(K) Into a Paycheck Manufacturing Company.” If you’d like a copy or have any other questions about this topic, give me a call. Let us help you help your employees use other people’s money to compound interest and create that paycheck for life.
