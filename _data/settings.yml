@@ -45,7 +45,7 @@ client:
   url: www.epsteinfinancial.com
   url2:
   first_CTA_text: Get Our Free Book
-  first_CTA_URL: https://www.epsteinfinancial.com/free-book-offer.html
+  first_CTA_URL: http://saveamericasave.org/
   # second_CTA_text: Schedule a Consultation
   # second_CTA_URL: https://secure.scheduleonce.com/Consultation-EpsteinFinancial
 
