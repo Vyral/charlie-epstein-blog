@@ -36,11 +36,11 @@ client:
   brand: Epstein Financial Services
   brokerage:
   address: '330 Whitney Avenue, Suite 610<br>Holyoke, MA 01040'
-  service: <b>Krista Krupa</b><br>Director of Events & Client Services
+  service: <b>Marie Forest</b><br>Director of Events & Client Services
   service2:
   phone: 413-539-2371
   phone2:
-  email: kkrupa@epsteinfs.com
+  email: MForest@The401KCoach.com
   email2:
   url: www.epsteinfinancial.com
   url2:
@@ -79,7 +79,7 @@ images:
   hero_logo_path: /img/logo.png
   hero_text:
   hero_background_hex: '#000000'
-  # hero_image_path: /img/background.jpg
+  hero_image_path: /img/background.jpg
 brand_color: '#FDB913'
 theme_color: '#000000'
 theme_text_color: '#353535'

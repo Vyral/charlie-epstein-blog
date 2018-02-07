@@ -1352,13 +1352,16 @@ html[xmlns] .flexslider .slides {
   width: 100%;
   padding-left: 0; }
   .navbar-andross .cta {
-    background: #e63c2c;
-    color: #fff;
+    background: #FDB913;
+    color: #000;
     margin-right: 1px; }
     .navbar-andross .cta a {
       text-transform: capitalize; }
+    .navbar-andross .cta:hover {
+      background-color: #000000;
+      color: #fff; }
   .navbar-andross .cta2 {
-    background: #D91F11;
+    background-color: #D91F11;
     color: #fff; }
     .navbar-andross .cta2 a {
       text-transform: capitalize; }
@@ -2605,10 +2608,10 @@ form select {
     margin: 10px auto;
     width: 90%; } }
 .dropdown-menu {
-  background: #d91f11;
+  background: #FDB913;
   border-radius: 0; }
   .dropdown-menu:active {
-    color: #d91f11; }
+    color: #fff; }
 
 .footer {
   background: #656464; }
@@ -2626,33 +2629,34 @@ form select {
     padding-bottom: 75px; }
 
 .nav > li > a:focus, .nav > li > a:hover {
-  background: #e63c2c;
-  color: #fff; }
+  background: #FDB913;
+  color: #000; }
 
 .nav > li > a {
-  color: #E84F41; }
+  color: #FDB913; }
 
 .nav > li > a:focus, .nav > li > a.cta:hover {
-  background: #e8493a; }
+  background: #FDB913; }
 
 .nav > li > a:focus, .nav > li > a.cta2:hover {
-  background: #e72112; }
+  background: #FDB913; }
 
 .navbar-left .dropdown {
   margin-bottom: 0; }
 
 .nav .open > a, .nav .open > a:focus, .nav .open > a:hover {
-  background: #e63c2c;
-  margin-bottom: 1rem; }
+  background: #000000;
+  margin-bottom: 1rem;
+  color: #fff; }
 
 .nav .open a {
-  color: #E84F41; }
+  color: #000; }
 .nav .open:focus {
-  background: #e63c2c; }
+  background: #fff; }
 .nav .open:hover {
-  background: #e63c2c; }
+  background: #fff; }
 .nav .open:active {
-  background: #e63c2c; }
+  background: #fff; }
 
 .footer-img {
   display: inline-block;
