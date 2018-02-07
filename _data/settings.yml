@@ -43,7 +43,7 @@ client:
   email: kkrupa@epsteinfs.com
   email2:
   url: www.epsteinfinancial.com
-  url2: 
+  url2:
   first_CTA_text: Get Our Free Book
   first_CTA_URL: https://www.epsteinfinancial.com/free-book-offer.html
   # second_CTA_text: Schedule a Consultation
@@ -78,10 +78,10 @@ images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
   hero_text:
-  hero_background_hex: '#4BB8B9'
-  hero_image_path: /img/background.jpg
-brand_color: '#4BB8B9'
-theme_color: '#4BB8B9'
+  hero_background_hex: '#000000'
+  # hero_image_path: /img/background.jpg
+brand_color: '#FDB913'
+theme_color: '#000000'
 theme_text_color: '#353535'
 main_body_color: '#ffffff'
 main_body_text_color: '#353535'
