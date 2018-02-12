@@ -3,31 +3,46 @@ title: Epstein Financial Video Blog
 description: 'We create greater clarity, confidence and the capabilities for entrepreneurs, medical practitioners, 401k participants and retirees to maximize the power of their financial future. Our goal is to help you generate a "paycheck for life" to pay for all the things you desire to do and to live a fulfilling and engaged life.'
 show_custom_links: false
 custom_links:
-  - title:
-    url:
+  - title: Home
+    url: http://www.the401kcoach.com/
+  - title: Testimonials
+    url: http://www.the401kcoach.com/testimonials.html
+  - title: Contact
+    url: /contact
+
 about_tab:
-  - link_name: Our Company
-    link_url: https://www.epsteinfinancial.com/our-company.html
-  - link_name: ADV & Disclosures
-    link_url: https://www.epsteinfinancial.com/adv-disclosures.html
+  - link_name: The Team
+    link_url: http://www.the401kcoach.com/about.html
+  - link_name: Benefits
+    link_url: http://www.the401kcoach.com/benefits.html
+  - link_name: FAQ's
+    link_url: http://www.the401kcoach.com/faq.html
 family_CFO_tab:
-  - link_name: 6 Step Process
-    link_url: https://www.epsteinfinancial.com/the-family-cfo.html
-corporate_401k_tab:
-  - link_name: Fiducuary Compliance & Assessement
-    link_url: https://www.epsteinfinancial.com/fiduciary-compliance-assessement.html
-  - link_name: Capital Market Updates
-    link_url: https://www.epsteinfinancial.com/capital-market-updates.html
-  - link_name: Participant Education Process
-    link_url: https://www.epsteinfinancial.com/participant-education-process.html
-  - link_name: Desirement Mortgage Calculator
-    link_url: https://www.epsteinfinancial.com/desirement-mortgage-calculator.html
-  - link_name: Newsletter
-    link_url: https://www.epsteinfinancial.com/newsletter.html
   - link_name: Resources
-    link_url: https://www.epsteinfinancial.com/401k-resources.html
-  - link_name: Fiduciary Briefcase
-    link_url: https://www.fiduciarybriefcase.com/
+    link_url: http://www.the401kcoach.com/resources.html
+  - link_name: Webcasts
+    link_url: http://www.the401kcoach.com/webcasts.html
+  - link_name: Partners
+    link_url: http://www.the401kcoach.com/partners.html
+  - link_name: Articles/Editorials
+    link_url: http://www.the401kcoach.com/articles.html
+  - link_name: FAQ's
+    link_url: http://www.the401kcoach.com/faq.html
+# corporate_401k_tab:
+#   - link_name: Fiducuary Compliance & Assessement
+#     link_url: https://www.epsteinfinancial.com/fiduciary-compliance-assessement.html
+#   - link_name: Capital Market Updates
+#     link_url: https://www.epsteinfinancial.com/capital-market-updates.html
+#   - link_name: Participant Education Process
+#     link_url: https://www.epsteinfinancial.com/participant-education-process.html
+#   - link_name: Desirement Mortgage Calculator
+#     link_url: https://www.epsteinfinancial.com/desirement-mortgage-calculator.html
+#   - link_name: Newsletter
+#     link_url: https://www.epsteinfinancial.com/newsletter.html
+#   - link_name: Resources
+#     link_url: https://www.epsteinfinancial.com/401k-resources.html
+#   - link_name: Fiduciary Briefcase
+#     link_url: https://www.fiduciarybriefcase.com/
 client:
   name: Charlie Epstein
   license_number:
@@ -38,7 +53,7 @@ client:
   address: '330 Whitney Avenue, Suite 610<br>Holyoke, MA 01040'
   service: <b>Marie Forest</b><br>Director of Events & Client Services
   service2:
-  phone: 413-539-2371
+  phone: 413-539-6375
   phone2:
   email: MForest@The401KCoach.com
   email2:
