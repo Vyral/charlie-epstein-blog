@@ -50,7 +50,7 @@ client:
   market:
   brand: Epstein Financial Services
   brokerage:
-  address: '330 Whitney Avenue, Suite 610<br>Holyoke, MA 01040'
+  address: 330 Whitney Avenue, Suite 610<br>Holyoke, MA 01040
   service: <b>Marie Forest</b><br>Director of Events & Client Services
   service2:
   phone: 413-539-2375
