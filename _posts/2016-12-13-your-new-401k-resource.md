@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Your New 401K Resource
+title: Your New 401(k) Resource
 tags:
 excerpt: >-
   Over the course of the next year, I’ll send you a series of videos talking
@@ -24,7 +24,7 @@ Picture this: you’re getting ready to go on a great vacation. You’re standin
 
 Are you going to get on that plane? Of course not! Why? Because there is a significant chance that you won’t make it there safely or on time.
 
-In my 36 years as America’s 401K Coach, I’ve learned that there is an 85% chance that 85% of your employees in your retirement plan will not get to their destination—retirement—on time and safely.
+In my 36 years as America’s 401(k) Coach, I’ve learned that there is an 85% chance that 85% of your employees in your retirement plan will not get to their destination—retirement—on time and safely.
 
 That is why I’m starting this video blog. I will share all of the secrets to creating a successful retirement plan with you. You can even click here to get a free copy of my book, Save America, Save! so that you can learn all of my secrets right away.
 
