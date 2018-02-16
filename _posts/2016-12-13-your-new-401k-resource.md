@@ -2,9 +2,6 @@
 layout: post
 title: Your New 401K Resource
 tags:
-  - 401K
-  - Retirement
-  - Financial Consultant
 excerpt: >-
   Over the course of the next year, I’ll send you a series of videos talking
   about everything that you can do as a plan sponsor to help your employees
