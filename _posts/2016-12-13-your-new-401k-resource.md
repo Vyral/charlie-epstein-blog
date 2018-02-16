@@ -5,14 +5,18 @@ tags:
   - 401K
   - Retirement
   - Financial Consultant
-excerpt: 'Over the course of the next year, I’ll send you a series of videos talking about everything that you can do as a plan sponsor to help your employees reach retirement safely and on time.'
-enclosure: 'https://s3.amazonaws.com/vyralmarketing/Charlie+Epstein/Videos/2016+Videos/Let+Me+Tell+You+A+Story.mp4'
+excerpt: >-
+  Over the course of the next year, I’ll send you a series of videos talking
+  about everything that you can do as a plan sponsor to help your employees
+  reach retirement safely and on time.
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Charlie+Epstein/Videos/2016+Videos/Let+Me+Tell+You+A+Story.mp4
 pullquote: I can help you create a paycheck for life.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: _q7on4S_DDo
+youtube_code: Nzw4WOMse3I
 ---
 
 {% include youtube.html %}
