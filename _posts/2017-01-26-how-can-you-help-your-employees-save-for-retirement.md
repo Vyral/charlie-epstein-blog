@@ -18,7 +18,7 @@ youtube_alternate_image:
 youtube_code: 4zb79KHIgqQ
 ---
 
-{% include youtube.html %}<br><br>[Click here to get your free book](https://www.epsteinfinancial.com/free-book-offer.html)
+{% include youtube.html %}<br><br>[Click here to get your free book](https://www.saveamericasave.org/)
 
 First I'll cover how much your employees, on average, will need to save to create their paycheck for life for retirement.
 
