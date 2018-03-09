@@ -27,7 +27,7 @@ First, I’ll cover how much plan participants, on average, will need to save to
 Next, I’ll move on to something called the “Rule of 72,” which is a shortcut for figuring out how fast their money grows and how fast inflation can reduce the purchasing power of that paycheck for life.
 {: .present-before-paste}
 
-On average, I like to tell plan participants that t**hey need to save at least 10% of their pay, &nbsp;year in and year out, to effectively accumulate enough money to create a paycheck for life.**&nbsp;More importantly, participants need to calculate how much of their current income they need to replace when they get to retirement and have that paycheck for life. This is a calculation we’ve found that most employees don’t bother with, which is unfortunate because it’s the most important number.&nbsp;
+On average, I like to tell plan participants that **t****hey need to save at least 10% of their pay, &nbsp;year in and year out, to effectively accumulate enough money to create a paycheck for life.**&nbsp;More importantly, participants need to calculate how much of their current income they need to replace when they get to retirement and have that paycheck for life. This is a calculation we’ve found that most employees don’t bother with, which is unfortunate because it’s the most important number.&nbsp;
 {: .present-before-paste}
 
 How is this calculation done? In this industry, we have a technical word for it called the&nbsp;**“income replacement ratio,”**&nbsp;or the&nbsp;**“income replacement formula.”&nbsp;**
@@ -39,7 +39,7 @@ It works like this:&nbsp; On average, when a participant reaches retirement age,
 The economic definition of inflation, in layman’s terms, is too much money chasing too few goods. Inflation basically erodes your purchasing power over the years, so a participant needs their income or their savings to grow in order to keep up with the cost of living.
 {: .present-before-paste}
 
-This is where the**&nbsp;Rule of 72**&nbsp;comes into play. T**he Rule of 72 is a shortcut to figuring out how fast the participant’s money is going to be eroded by inflation.**&nbsp;The Rule of 72 helps to calculate how long they have until their income erodes to half of what they are currently making. So, since the inflation rate is 3%, you’ll take 72 and divide it by three. If the inflation rate was 4% and 5%, you would divide 72 by four or five. 72 divided by three is 24, therefore it would take 24 years for a $50,000 income to erode to $25,000.&nbsp;
+This is where the**&nbsp;Rule of 72**&nbsp;comes into play. **T****he Rule of 72 is a shortcut to figuring out how fast the participant’s money is going to be eroded by inflation.**&nbsp;The Rule of 72 helps to calculate how long they have until their income erodes to half of what they are currently making. So, since the inflation rate is 3%, you’ll take 72 and divide it by three. If the inflation rate was 4% and 5%, you would divide 72 by four or five. 72 divided by three is 24, therefore it would take 24 years for a $50,000 income to erode to $25,000.&nbsp;
 {: .present-before-paste}
 
 {% include pullquote.html %}
