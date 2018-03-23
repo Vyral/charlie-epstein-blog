@@ -3,27 +3,27 @@ layout: post
 title: How Can Your Employees Make the Most Out of Social Security?
 tags:
   - 401K
-  - Financial Consultant
-  - Retirement
-excerpt: 'If you want your employees to maximize the value of social security, they can generally earn more if they wait longer to start taking it. However, what’s best for them depends on a few factors I’ll discuss today.'
-enclosure: 'https://s3.amazonaws.com/vyralmarketing/Charlie+Epstein/Videos/2017+Videos/How+Can+Your+Employees+Make+the+Most+Out+of+Social+Security%253F.mp4'
+excerpt: >-
+  If you want your employees to maximize the value of social security, they can
+  generally earn more if they wait longer to start taking it. However, what’s
+  best for them depends on a few factors I’ll discuss today.
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Charlie+Epstein/Videos/2017+Videos/How+Can+Your+Employees+Make+the+Most+Out+of+Social+Security%253F.mp4
 pullquote: When you should start taking your social security depends on many factors.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: jsOVTUs96Xg
+youtube_code: suAF48DliTc
 ---
-
 
 {% include youtube.html %}
 
-[Schedule a Consultation](https://secure.scheduleonce.com/Consultation-EpsteinFinancial) - [Click here to get your free book](https://www.epsteinfinancial.com/free-book-offer.html)
-{: style="text-align: center"}
+[Click here to get your free book](https://www.epsteinfinancial.com/free-book-offer.html)
 
 How can your employees maximize the benefits of social security and use it to its full advantages?
 
-Last year, the Obama administration made some major cuts to social security. Let me be clear—the social security trust fund has no money in it. It’s a ponzi scheme. Some people pay in, but far more people pay out. Every administration for the last 25 years has tried cutting off various loopholes and raising taxes to shore up the system, but it just hasn’t happened. The Obama administration eliminated some of those loopholes that would’ve allowed you or your spouse to maximize this benefit. And today, those are all gone.
+A few years ago, the Obama administration made some major cuts to social security. Let me be clear—the social security trust fund has no money in it. It’s a ponzi scheme. Some people pay in, but far more people pay out. Every administration for the last 25 years has tried cutting off various loopholes and raising taxes to shore up the system, but it just hasn’t happened. The Obama administration eliminated some of those loopholes that would’ve allowed you or your spouse to maximize this benefit. And today, those are all gone.
 
 The good news, however, is that they’ve made it easier for you and your employees to calculate your benefits. What do you and your employees need to know?
 
