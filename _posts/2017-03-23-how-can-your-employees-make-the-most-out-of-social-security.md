@@ -19,7 +19,7 @@ youtube_code: suAF48DliTc
 
 {% include youtube.html %}
 
-[Click here to get your free book](https://www.epsteinfinancial.com/free-book-offer.html)
+[Click here to get your free book](https://www.saveamericasave.org/)
 
 How can your employees maximize the benefits of Social Security and use it to its full advantages?
 
