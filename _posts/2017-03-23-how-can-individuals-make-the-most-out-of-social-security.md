@@ -27,7 +27,7 @@ A few years ago, the Obama Administration made some major cuts to Social Securit
 
 The good news, however, is that they’ve made it easier for individuals to calculate their benefits. What does everyone need to know?
 
-First,&nbsp;**everyone should go to the Social Security website&nbsp;[www.ssa.gov](www.ssa.gov), log in, enter their personal information, create an ID, and generate their Social Security report.**&nbsp;Once that’s done, the report is going to tell them what their income will be at age 62, 66, 70, and which is the age that guarantees the largest benefit.
+First,&nbsp;**everyone should go to the Social Security website&nbsp;[www.ssa.gov](https://www.ssa.gov/), log in, enter their personal information, create an ID, and generate their Social Security report.**&nbsp;Once that’s done, the report is going to tell them what their income will be at age 62, 66, 70, and which is the age that guarantees the largest benefit.
 
 When should individuals take their Social Security? &nbsp;That depends on a lot of factors. Primarily&nbsp;**the state of their health, whether or not they like working, and if they have other savings or investments in play.**
 
@@ -35,7 +35,7 @@ As an example, I’ll tell you about a client of mine, Jim, who was facing the s
 
 The first strategy is, once retired, Jim is to live by spending down his cash first, which is tax free. &nbsp;When Jim turns 66 ½ years of age, he’ll continue to live on cash and he will begin collecting his Social Security. &nbsp;He’s going to pay nothing in taxes because he’s living off his cash (which he’s already paid taxes on), his Social Security income will be tax free, and he also has money in his Roth IRA which he can drawdown tax free. At the age 70 ½, Jim will start taking money out of his 401(k) and his IRAs, but he’s going to take out his minimum distribution, and by doing that, he’ll pay as little in tax as possible.
 
-Some people might say, “Charlie, I don’t want to wait until I’m 66 ½ or 70 to collect my Social Security. &nbsp;I had a father who worked his whole life, stopped working, died the next month, and then never collect a dime from Social Security.”
+Some people might say, *“Charlie, I don’t want to wait until I’m 66 ½ or 70 to collect my Social Security. &nbsp;I had a father who worked his whole life, stopped working, died the next month, and then never collect a dime from Social Security.”*
 
 That’s an important consideration. Just bear in mind, if an individual starts collecting Social Security at 62, and they are still working, they’re going to pay taxes on their Social Security benefit. &nbsp;Basically, for every dollar earned, they’re going to pay 30%, 40%, or even 50% tax on money earned while working.
 
