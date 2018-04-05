@@ -16,7 +16,7 @@ youtube_alternate_image:
 youtube_code: FCdkhR_8LbU
 ---
 
-{% include youtube.html %}<br><br>[Click here to get your free book](https://www.epsteinfinancial.com/free-book-offer.html)
+{% include youtube.html %}<br><br>[Click here to get your free book](https://www.saveamericasave.org/)
 
 Today I’m covering another facet of Auto to the 5th Power, automatic re-enrollment. You have can actually re-enroll your employees into that Qualified Default Investment Option, or QDIA, to provide incredible protection for you as a plan sponsor and help your employees save money to create that paycheck for life.
 
