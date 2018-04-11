@@ -1,6 +1,6 @@
 ---
 layout: post
-title: An Easier Way to Enroll Your Employees in a Retirement Plan
+title: An Easier Way to Enroll Employees in Their Retirement Plan
 tags:
   - 401K
 excerpt: >-
