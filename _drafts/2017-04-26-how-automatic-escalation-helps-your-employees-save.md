@@ -2,7 +2,6 @@
 layout: post
 title: How Automatic Escalation Helps Your Employees Save
 tags:
-  - 401K
 excerpt: >-
   We’re back with part two of our “Auto to the 5th Power” series. This time,
   we’re covering automatic escalation.
