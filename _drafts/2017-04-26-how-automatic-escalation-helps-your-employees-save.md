@@ -16,7 +16,7 @@ youtube_alternate_image:
 youtube_code: QRCM4nakPRs
 ---
 
-{% include youtube.html %}<br><br>[Click here to get your free book](https://www.epsteinfinancial.com/free-book-offer.html)
+{% include youtube.html %}<br><br>[Click here to get your free book](https://www.saveamericasave.org/)
 
 Welcome back to my series based on my book “Save America Save”. Today I’m covering the third automatic feature in “Auto to the 5th Power,” automatic escalation. **This is my all-time favorite automatic feature, and here’s why.**
 
