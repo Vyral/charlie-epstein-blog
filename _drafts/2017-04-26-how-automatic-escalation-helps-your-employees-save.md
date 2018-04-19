@@ -3,10 +3,11 @@ layout: post
 title: How Automatic Escalation Helps Your Employees Save
 tags:
   - 401K
-  - Financial Consultant
-  - Retirement
-excerpt: 'We’re back with part two of our “Auto to the 5th Power” series. This time, we’re covering automatic escalation.'
-enclosure: 'https://s3.amazonaws.com/vyralmarketing/Charlie+Epstein/Videos/2017+Videos/How+Automatic+Escalation+Helps+Your+Employees+Save+-+The+401K+Coach.mp4'
+excerpt: >-
+  We’re back with part two of our “Auto to the 5th Power” series. This time,
+  we’re covering automatic escalation.
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Charlie+Epstein/Videos/2017+Videos/How+Automatic+Escalation+Helps+Your+Employees+Save+-+The+401K+Coach.mp4
 pullquote: 'Left on their own, a majority of employees won’t increase their contribution.'
 enclosure_type: video/mp4
 enclosure_time:
@@ -15,11 +16,7 @@ youtube_alternate_image:
 youtube_code: QRCM4nakPRs
 ---
 
-
-{% include youtube.html %}
-
-[Schedule a Consultation](https://secure.scheduleonce.com/Consultation-EpsteinFinancial) - [Click here to get your free book](https://www.epsteinfinancial.com/free-book-offer.html)
-{: style="text-align: center"}
+{% include youtube.html %}<br><br>[Click here to get your free book](https://www.epsteinfinancial.com/free-book-offer.html)
 
 Welcome back to my series based on my book “Save America Save”. Today I’m covering the third automatic feature in “Auto to the 5th Power,” automatic escalation. **This is my all-time favorite automatic feature, and here’s why.**
 
