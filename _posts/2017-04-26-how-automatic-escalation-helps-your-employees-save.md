@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: _ugBVBd2Bt0
+youtube_code: UUAh0Zqxc20
 ---
 
 {% include youtube.html %}<br><br>[Click here to get your free book](https://www.saveamericasave.org/)
