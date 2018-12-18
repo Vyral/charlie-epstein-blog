@@ -36,4 +36,6 @@ I’m grateful to Ray Houle Construction and our subcontractors for doing such a
 
 We’re excited for what 2019 holds, and we hope our clients are as well. If you need a road map to ensure your future success, give me a call or send me an email. I look forward to hearing from you soon.
 
-![Warm welcome memories](/uploads/groupshot.jpg "Thanks for the warm welcome | Epstein Financial Services")Photos provided courtesy of Robert Charles.
+![](/uploads/groupshot-1.jpg)
+
+&nbsp;
