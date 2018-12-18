@@ -16,7 +16,11 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: 'https://www.youtube.com/watch?v=AKiIQyqJjgw'
+youtube_code: >-
+  <iframe width="560" height="315"
+  src="https://www.youtube.com/embed/AKiIQyqJjgw" frameborder="0"
+  allow="accelerometer; autoplay; encrypted-media; gyroscope;
+  picture-in-picture" allowfullscreen></iframe>
 ---
 
 {% include youtube.html %}
