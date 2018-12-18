@@ -1,6 +1,6 @@
 ---
 layout: post
-title: warm welcome draft
+title: Thanks for the Warm Welcome!
 tags:
   - Market Update
   - Real Estate
@@ -15,6 +15,7 @@ use_youtube_image: true
 youtube_alternate_image:
 youtube_code:
 ---
+
 {% include youtube.html %}
 
 {% include pullquote.html %}
