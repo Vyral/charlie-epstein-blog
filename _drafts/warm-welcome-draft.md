@@ -8,6 +8,7 @@ tags:
   - charlie epstein
   - the 401k coach
   - financial advisor
+  - warm welcome
 excerpt: >-
   The end of the year in nigh, and we have a lot to be grateful for, not the
   least of which is our new home in the heart of the thriving East Longmeadow
