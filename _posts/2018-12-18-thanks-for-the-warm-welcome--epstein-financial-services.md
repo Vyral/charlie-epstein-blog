@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Thanks for the Warm Welcome!
+title: Thanks for the Warm Welcome | Epstein Financial Services
 tags:
   - News
 excerpt: >-
