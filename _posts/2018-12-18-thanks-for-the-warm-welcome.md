@@ -2,10 +2,7 @@
 layout: post
 title: Thanks for the Warm Welcome!
 tags:
-  - Market Update
-  - Real Estate
-  - Buyer Tips
-  - Home Seller Tips
+  - warm welcome
 excerpt: >-
   The end of the year in nigh, and we have a lot to be grateful for, not the
   least of which is our new home in the heart of the thriving East Longmeadow
