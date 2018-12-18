@@ -18,4 +18,4 @@ youtube_code:
 
 {% include youtube.html %}
 
-{% include pullquote.html %}
+&nbsp;
