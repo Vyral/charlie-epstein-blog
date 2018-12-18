@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Thanks for the Warm Welcome | Epstein Financial Services
+title: Thanks for the Warm Welcome
 tags:
   - News
 excerpt: >-
@@ -32,7 +32,7 @@ A special thank you goes out to Center Square Grill for their delicious fare, an
 
 ## More to Come
 
-I’m grateful to Ray Houle Construction and our subcontractors for doing such a fabulous renovation. Our new home gives us a lot more flexibility and room to grow. Our square footage has increased by 50 percent and includes a video studio that can be used to film promotional and educational videos for Epstein Financial Services, The 401k Coach&reg; Program and clients’ businesses. We also have accessible parking, as well as larger conference and meeting spaces.
+I’m grateful to Ray Houle Construction and our subcontractors for doing such a fabulous renovation. Our new home gives us a lot more flexibility and room to grow. Our square footage has increased by 50 percent and includes a video studio that can be used to film promotional and educational videos for Epstein Financial Services, The 401k Coach® Program and clients’ businesses. We also have accessible parking, as well as larger conference and meeting spaces.
 
 We’re excited for what 2019 holds, and we hope our clients are as well. If you need a road map to ensure your future success, give me a call or send me an email. I look forward to hearing from you soon.
 
