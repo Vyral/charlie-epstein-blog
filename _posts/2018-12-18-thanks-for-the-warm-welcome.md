@@ -38,4 +38,4 @@ We’re excited for what 2019 holds, and we hope our clients are as well. If you
 
 ![](/uploads/groupshot-1.jpg)
 
-&nbsp;
+Photos provided courtesy of Robert Charles.
