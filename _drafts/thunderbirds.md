@@ -11,10 +11,11 @@ enclosure:
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
+use_youtube_image: false
 youtube_alternate_image:
 youtube_code:
 ---
-{% include youtube.html %}
 
-{% include pullquote.html %}
+![](/uploads/1902015-efs-tbirdssponsorshipsocial-fbli.png)
+
+Epstein Financial Services is proud to support Domestic Violence Awareness & Prevention Night as the Springfield Thunderbirds face off with the Toronto Marlies at the MassMutual Center on Saturday, February 16 at 7:00 p.m.
