@@ -1,8 +1,6 @@
 ---
 layout: post
-title: >-
-  Epstein Financial Services Supports Domestic Violence Awareness & Prevention
-  Night
+title: EFS Supports The Mary Kay Foundation
 tags:
   - Market Update
   - Buyer Tips
