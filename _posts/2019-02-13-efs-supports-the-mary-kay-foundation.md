@@ -19,6 +19,6 @@ youtube_alternate_image: /uploads/1902015-efs-tbirdssponsorshipsocial-fbli-1.png
 youtube_code:
 ---
 
-![](/uploads/1902015-efs-tbirdssponsorshipsocial-fbli.png)
+![The Mary Kay Foundation](/uploads/1902015-efs-tbirdssponsorshipsocial-fbli.png "Epstein Financial supports The Mary Kay Foundation")
 
 Epstein Financial Services is proud to support Domestic Violence Awareness & Prevention Night as the Springfield Thunderbirds face off with the Toronto Marlies at the MassMutual Center on Saturday, February 16 at 7:00 p.m.
