@@ -12,7 +12,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image:
+youtube_alternate_image: /uploads/1902015-efs-tbirdssponsorshipsocial-fbli-1.png
 youtube_code:
 ---
 
