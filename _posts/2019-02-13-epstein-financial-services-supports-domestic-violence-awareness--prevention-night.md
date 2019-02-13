@@ -5,9 +5,9 @@ title: >-
   Night
 tags:
   - Market Update
-  - Real Estate
   - Buyer Tips
   - Home Seller Tips
+  - News
 excerpt:
 enclosure:
 pullquote:
