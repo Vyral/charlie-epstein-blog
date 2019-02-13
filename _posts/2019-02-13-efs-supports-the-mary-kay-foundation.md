@@ -6,7 +6,10 @@ tags:
   - Buyer Tips
   - News
   - 401K
-excerpt:
+excerpt: >-
+  Epstein Financial Services is proud to support Domestic Violence Awareness &
+  Prevention Night as the Springfield Thunderbirds face off with the Toronto
+  Marlies at the MassMutual Center on Saturday, February 16 at 7:00 p.m.
 enclosure:
 pullquote:
 enclosure_type: video/mp4
